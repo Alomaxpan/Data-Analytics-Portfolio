@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Country,City,Device_Type,Browser,Session_Duration,Pages_Viewed,Clicked_Ad,Product_Category,Purchase_Amount,Payment_Method,Discount_Applied,Delivery_Time_Days,Return,Customer_Satisfaction,Membership_Level,Loyalty_Points,Referral_Used
+CUST1000,56,Male,Canada,London,Mobile,Firefox,28.45,8,1,Home,436.72,Cash on Delivery,1,1,1,5,Gold,15,1
+CUST1001,46,Female,UK,Mumbai,Tablet,Safari,1.81,1,0,Books,40.27,Credit Card,1,13,1,1,None,110,1
+CUST1002,32,Male,Pakistan,New York,Tablet,Edge,5.81,2,0,Home,427.86,Credit Card,1,3,1,1,None,871,0
+CUST1003,60,Other,Canada,Toronto,Tablet,Edge,16.26,18,1,Books,391.91,Cash on Delivery,0,3,0,5,None,712,1
+CUST1004,25,Male,India,Lahore,Desktop,Firefox,2.64,15,1,Clothing,56.24,Cash on Delivery,0,11,1,4,Gold,106,0
+CUST1005,38,Male,Canada,London,Desktop,Edge,38.25,1,0,Electronics,58.17,Credit Card,1,6,0,3,Platinum,378,1
+CUST1006,56,Male,USA,Mumbai,Tablet,Chrome,26.16,5,0,Beauty,55.08,Cash on Delivery,0,8,0,3,Silver,161,0
+CUST1007,36,Male,Pakistan,New York,Desktop,Chrome,33.34,2,0,Clothing,10.61,Cash on Delivery,1,3,1,5,Platinum,282,1
+CUST1008,40,Other,India,Lahore,Tablet,Edge,11.3,3,0,Electronics,276.57,Debit Card,0,3,1,4,Gold,268,0
+CUST1009,28,Other,UK,Mumbai,Desktop,Firefox,18.46,19,1,Clothing,486.83,Cash on Delivery,0,6,0,2,Platinum,483,1
+CUST1010,28,Female,India,Mumbai,Mobile,Safari,40.17,18,1,Home,222.15,PayPal,1,8,0,5,Platinum,666,0
+CUST1011,41,Other,UK,Lahore,Mobile,Firefox,57.95,18,0,Books,272.67,Debit Card,0,6,0,3,Silver,72,1
+CUST1012,53,Other,India,New York,Tablet,Safari,3.97,14,0,Clothing,484.15,PayPal,1,13,0,4,Platinum,196,1
+CUST1013,57,Female,Canada,New York,Desktop,Edge,53.53,8,0,Electronics,131.32,Cash on Delivery,0,12,1,1,Platinum,242,1
+CUST1014,41,Other,Canada,Toronto,Desktop,Edge,35.04,12,1,Home,429.94,Credit Card,1,14,0,4,Platinum,597,0
+CUST1015,20,Male,Canada,London,Mobile,Chrome,34.27,10,0,Beauty,275.46,Debit Card,0,10,1,4,None,798,1
+CUST1016,39,Male,USA,Lahore,Mobile,Safari,30.52,17,0,Home,286.89,Credit Card,1,3,1,3,Gold,258,1
+CUST1017,19,Female,UK,Lahore,Tablet,Firefox,5.09,11,1,Books,174.87,Debit Card,0,4,1,3,Gold,797,1
+CUST1018,41,Female,Canada,Lahore,Mobile,Edge,6.3,2,1,Home,282.98,Credit Card,1,1,0,2,Silver,148,0
+CUST1019,61,Female,USA,New York,Tablet,Firefox,36.45,4,0,Beauty,41.21,Debit Card,0,13,0,2,None,866,1
+CUST1020,47,Male,UK,London,Mobile,Chrome,21.12,1,0,Electronics,383.5,Debit Card,1,8,1,5,None,389,1
+CUST1021,55,Other,India,Toronto,Mobile,Safari,55.12,15,1,Clothing,145.92,PayPal,0,4,1,1,Platinum,987,0
+CUST1022,19,Male,USA,Mumbai,Desktop,Safari,24.99,13,0,Books,444.37,Credit Card,1,6,1,2,Gold,415,1
+CUST1023,38,Female,Pakistan,Mumbai,Mobile,Edge,9.45,8,0,Beauty,187.09,PayPal,0,11,1,3,Silver,425,0
+CUST1024,50,Other,USA,Lahore,Mobile,Safari,43.17,4,1,Books,75.7,PayPal,1,3,0,4,None,996,1
+CUST1025,29,Other,USA,London,Tablet,Edge,18.31,10,1,Home,349.46,Credit Card,1,11,1,5,Platinum,701,0
+CUST1026,39,Male,UK,New York,Mobile,Chrome,32.0,19,1,Books,86.47,Debit Card,1,12,0,2,Silver,216,0
+CUST1027,61,Female,India,London,Tablet,Safari,42.17,18,0,Beauty,378.07,PayPal,1,11,0,4,None,927,0
+CUST1028,42,Male,Pakistan,London,Mobile,Edge,54.12,5,1,Clothing,484.22,Credit Card,0,6,0,4,Silver,866,1
+CUST1029,44,Other,Canada,New York,Mobile,Firefox,47.74,19,1,Clothing,390.88,Debit Card,0,12,0,2,None,85,1
+CUST1030,59,Male,Canada,Lahore,Tablet,Edge,40.91,16,0,Books,16.11,PayPal,0,11,1,1,Silver,215,0
+CUST1031,45,Male,USA,London,Desktop,Safari,41.1,1,0,Electronics,301.94,PayPal,1,9,0,1,None,422,1
+CUST1032,33,Female,UK,Mumbai,Tablet,Chrome,56.81,12,1,Books,349.23,PayPal,1,9,1,5,None,319,1
+CUST1033,32,Female,UK,New York,Tablet,Safari,18.45,2,1,Home,413.6,Debit Card,1,10,0,1,Silver,117,0
+CUST1034,64,Other,Canada,Toronto,Tablet,Safari,1.07,8,0,Clothing,32.72,PayPal,1,3,1,5,None,925,0
+CUST1035,61,Male,Pakistan,Lahore,Desktop,Edge,17.05,18,0,Clothing,242.65,Debit Card,1,3,1,3,None,958,0
+CUST1036,20,Male,India,New York,Mobile,Firefox,13.86,16,1,Clothing,270.01,Cash on Delivery,0,4,1,2,None,881,0
+CUST1037,54,Male,Pakistan,Toronto,Tablet,Safari,40.05,5,1,Electronics,88.72,PayPal,0,12,1,4,Silver,991,1
+CUST1038,24,Other,India,Toronto,Tablet,Firefox,38.39,13,0,Electronics,164.61,Cash on Delivery,0,7,1,5,Silver,414,1
+CUST1039,38,Other,Canada,London,Desktop,Edge,36.01,19,1,Beauty,222.91,Credit Card,1,3,0,1,None,598,1
+CUST1040,26,Female,India,London,Tablet,Firefox,1.96,3,0,Books,417.44,PayPal,1,10,1,5,None,39,1
+CUST1041,56,Female,UK,London,Mobile,Edge,44.0,8,1,Books,465.06,Credit Card,1,8,0,5,Silver,160,1
+CUST1042,35,Female,USA,New York,Desktop,Chrome,20.09,12,0,Home,316.07,Credit Card,1,11,1,1,Platinum,702,1
+CUST1043,21,Male,USA,New York,Mobile,Firefox,40.24,2,0,Clothing,200.5,Credit Card,1,8,0,1,None,536,0
+CUST1044,42,Male,Canada,Lahore,Mobile,Firefox,33.84,11,1,Electronics,130.75,Cash on Delivery,1,6,0,2,Platinum,419,1
+CUST1045,31,Female,UK,London,Desktop,Chrome,21.22,12,1,Home,491.16,Debit Card,1,4,0,4,Silver,663,1
+CUST1046,26,Male,Pakistan,Toronto,Tablet,Firefox,8.94,18,0,Home,491.59,Cash on Delivery,0,11,1,2,None,94,1
+CUST1047,43,Female,UK,Mumbai,Mobile,Chrome,6.57,13,1,Electronics,462.86,Cash on Delivery,0,12,0,2,Platinum,441,0
+CUST1048,19,Other,USA,Lahore,Mobile,Safari,50.06,5,1,Books,393.91,Credit Card,1,11,1,1,Silver,934,0
+CUST1049,37,Female,USA,New York,Mobile,Edge,55.19,12,1,Clothing,166.26,PayPal,1,5,1,1,Platinum,557,1
+CUST1050,45,Other,UK,Lahore,Mobile,Chrome,39.34,2,0,Books,409.42,Debit Card,1,12,0,4,Gold,972,0
+CUST1051,64,Male,UK,Lahore,Desktop,Firefox,7.1,5,1,Home,207.35,Credit Card,0,2,0,5,Silver,649,0
+CUST1052,24,Female,USA,Lahore,Desktop,Chrome,24.72,7,1,Clothing,166.75,Debit Card,0,13,1,2,Gold,982,1
+CUST1053,61,Male,Pakistan,Lahore,Mobile,Firefox,44.01,12,0,Beauty,373.71,Cash on Delivery,1,6,1,4,Silver,465,1
+CUST1054,25,Other,Canada,Mumbai,Tablet,Safari,47.01,16,1,Home,44.43,Debit Card,0,3,1,2,Silver,287,1
+CUST1055,64,Other,Canada,London,Mobile,Chrome,7.97,8,1,Books,29.04,Debit Card,0,6,1,5,None,864,0
+CUST1056,52,Other,UK,Toronto,Tablet,Safari,1.0,9,0,Books,226.74,PayPal,0,12,1,2,Gold,675,0
+CUST1057,31,Male,Canada,Lahore,Mobile,Edge,43.02,15,0,Books,225.59,Credit Card,1,5,1,3,Gold,411,1
+CUST1058,34,Male,USA,Lahore,Tablet,Firefox,22.04,5,1,Electronics,448.34,Debit Card,0,14,0,4,Gold,399,0
+CUST1059,53,Male,USA,Lahore,Mobile,Firefox,16.01,13,1,Home,67.45,Debit Card,0,2,1,1,Silver,527,0
+CUST1060,57,Male,UK,London,Tablet,Safari,1.76,5,0,Clothing,66.03,Cash on Delivery,1,12,1,2,Gold,17,0
+CUST1061,21,Other,UK,New York,Mobile,Edge,32.88,11,0,Books,77.99,Cash on Delivery,1,13,0,4,Gold,135,1
+CUST1062,19,Other,UK,New York,Mobile,Chrome,51.22,10,1,Books,19.72,Debit Card,0,14,0,4,None,463,1
+CUST1063,23,Female,Pakistan,Mumbai,Tablet,Chrome,57.5,13,1,Electronics,40.51,Credit Card,1,5,0,2,Platinum,758,1
+CUST1064,59,Female,Canada,New York,Desktop,Firefox,34.38,9,1,Clothing,331.64,Debit Card,0,5,1,1,Platinum,247,1
+CUST1065,21,Male,UK,Lahore,Tablet,Safari,31.35,14,0,Home,218.63,Debit Card,0,14,0,1,Gold,842,1
+CUST1066,46,Other,India,Lahore,Desktop,Safari,6.02,18,1,Beauty,382.98,PayPal,1,9,0,2,Gold,709,0
+CUST1067,35,Other,India,Lahore,Mobile,Chrome,33.38,15,0,Electronics,496.34,Credit Card,1,11,1,4,Gold,0,0
+CUST1068,43,Other,USA,Mumbai,Tablet,Edge,23.42,10,0,Home,331.22,PayPal,0,8,1,1,Gold,701,0
+CUST1069,61,Female,Canada,Lahore,Tablet,Edge,36.82,7,0,Beauty,29.98,Credit Card,1,12,1,2,Platinum,380,0
+CUST1070,51,Female,UK,New York,Tablet,Chrome,23.93,8,1,Books,56.76,Credit Card,1,12,1,2,None,508,0
+CUST1071,27,Other,India,London,Desktop,Chrome,15.18,3,1,Books,441.1,Credit Card,0,7,0,2,Silver,459,0
+CUST1072,53,Other,Canada,London,Desktop,Safari,6.6,15,1,Clothing,266.11,PayPal,0,12,1,4,Gold,504,1
+CUST1073,31,Other,USA,Toronto,Mobile,Edge,19.58,16,0,Beauty,413.29,PayPal,0,13,0,1,Gold,805,1
+CUST1074,48,Female,Pakistan,New York,Desktop,Chrome,6.7,4,1,Books,429.02,PayPal,0,14,1,4,Platinum,475,0
+CUST1075,32,Other,Canada,Lahore,Desktop,Chrome,11.44,6,0,Books,464.2,Cash on Delivery,0,3,0,3,Gold,556,1
+CUST1076,25,Other,Canada,London,Mobile,Firefox,59.25,1,0,Clothing,475.17,PayPal,0,10,1,1,None,953,0
+CUST1077,31,Male,Pakistan,New York,Tablet,Chrome,27.2,4,0,Home,279.64,Cash on Delivery,1,4,1,4,None,848,0
+CUST1078,40,Male,Canada,London,Tablet,Chrome,32.38,11,0,Books,173.8,Cash on Delivery,1,6,1,1,Gold,896,1
+CUST1079,57,Female,USA,Lahore,Mobile,Edge,52.54,12,0,Electronics,481.12,Cash on Delivery,0,3,0,3,Platinum,31,1
+CUST1080,38,Other,USA,London,Tablet,Safari,59.74,5,0,Electronics,275.97,Debit Card,1,11,0,5,Gold,903,0
+CUST1081,33,Other,Pakistan,Toronto,Desktop,Edge,35.38,16,1,Home,36.81,Debit Card,1,9,0,2,Gold,117,1
+CUST1082,62,Male,UK,Toronto,Mobile,Safari,48.94,13,0,Beauty,323.17,Debit Card,0,8,1,4,Platinum,807,0
+CUST1083,35,Female,India,London,Mobile,Firefox,20.29,13,1,Clothing,295.9,Cash on Delivery,1,6,0,3,None,183,0
+CUST1084,64,Male,UK,New York,Mobile,Chrome,19.04,17,0,Electronics,448.42,Cash on Delivery,1,4,1,3,Silver,190,0
+CUST1085,41,Male,Canada,New York,Tablet,Firefox,24.76,7,1,Electronics,328.33,Credit Card,0,7,1,1,Gold,746,0
+CUST1086,43,Male,India,New York,Mobile,Safari,40.68,8,1,Home,177.78,Cash on Delivery,1,13,1,1,None,749,0
+CUST1087,42,Male,Pakistan,London,Mobile,Edge,41.25,13,1,Beauty,483.28,Debit Card,1,11,0,2,Gold,727,1
+CUST1088,62,Other,Pakistan,New York,Mobile,Edge,19.6,16,1,Beauty,401.8,Cash on Delivery,0,3,1,1,Silver,73,0
+CUST1089,58,Other,India,Lahore,Tablet,Firefox,8.86,4,0,Home,317.06,Cash on Delivery,1,10,0,4,Platinum,622,1
+CUST1090,46,Male,USA,Toronto,Desktop,Safari,38.31,8,0,Electronics,150.0,Credit Card,1,8,1,4,None,102,0
+CUST1091,32,Female,India,Lahore,Mobile,Firefox,8.57,16,0,Clothing,189.9,Cash on Delivery,1,1,1,4,Silver,870,1
+CUST1092,62,Female,Canada,New York,Desktop,Firefox,35.13,10,0,Electronics,336.64,PayPal,0,3,1,5,Gold,585,0
+CUST1093,18,Female,USA,Lahore,Tablet,Chrome,41.91,12,1,Beauty,40.63,Credit Card,0,11,0,4,Silver,419,1
+CUST1094,42,Female,Pakistan,New York,Tablet,Firefox,42.34,12,1,Electronics,132.06,Cash on Delivery,1,5,0,1,None,472,0
+CUST1095,24,Male,India,London,Tablet,Chrome,45.45,5,1,Clothing,358.38,Cash on Delivery,1,5,1,1,Platinum,763,0
+CUST1096,26,Other,UK,Lahore,Tablet,Chrome,52.5,16,0,Books,242.61,Credit Card,0,10,0,4,Gold,113,1
+CUST1097,41,Female,UK,London,Desktop,Edge,30.5,1,1,Electronics,204.18,Cash on Delivery,0,14,0,3,Platinum,378,1
+CUST1098,18,Male,Canada,London,Mobile,Chrome,44.08,9,0,Home,79.97,Debit Card,1,2,1,3,Platinum,312,1
+CUST1099,61,Female,UK,Mumbai,Tablet,Chrome,37.53,12,1,Books,223.72,PayPal,0,10,1,3,Silver,329,1
+CUST1100,25,Female,India,New York,Tablet,Edge,12.01,5,1,Home,386.49,PayPal,1,8,0,2,Silver,338,1
+CUST1101,41,Male,India,Toronto,Desktop,Firefox,2.52,3,1,Home,135.69,Debit Card,1,5,1,5,None,237,1
+CUST1102,28,Other,UK,New York,Desktop,Safari,17.79,5,1,Home,7.67,Cash on Delivery,0,7,1,4,None,172,0
+CUST1103,34,Other,India,Toronto,Tablet,Safari,27.14,2,1,Electronics,335.91,Cash on Delivery,0,7,0,2,Platinum,78,0
+CUST1104,25,Male,Canada,New York,Mobile,Safari,37.41,14,0,Beauty,486.45,PayPal,1,14,0,3,None,463,0
+CUST1105,52,Other,USA,London,Mobile,Firefox,51.15,2,1,Books,305.38,Cash on Delivery,1,5,1,4,Platinum,897,1
+CUST1106,52,Male,Canada,Lahore,Tablet,Chrome,12.58,13,0,Clothing,64.36,PayPal,0,8,0,2,Gold,604,1
+CUST1107,50,Male,Canada,Lahore,Desktop,Safari,8.41,7,0,Beauty,163.76,PayPal,1,9,0,1,Platinum,963,1
+CUST1108,22,Male,India,Mumbai,Tablet,Firefox,57.85,10,0,Electronics,434.48,Debit Card,0,4,1,3,None,500,0
+CUST1109,59,Other,USA,Toronto,Tablet,Chrome,7.37,13,0,Home,120.12,PayPal,0,4,1,2,None,561,1
+CUST1110,56,Male,India,Toronto,Desktop,Edge,29.23,16,0,Clothing,305.81,Cash on Delivery,0,8,1,1,Platinum,284,0
+CUST1111,58,Female,Pakistan,Toronto,Tablet,Safari,35.55,14,0,Books,204.32,Cash on Delivery,0,1,1,3,Silver,222,1
+CUST1112,45,Other,India,London,Tablet,Chrome,32.94,11,0,Beauty,107.88,Credit Card,0,4,0,5,Platinum,592,1
+CUST1113,24,Other,India,Toronto,Tablet,Safari,6.08,10,0,Beauty,407.64,Cash on Delivery,1,6,0,3,Platinum,265,1
+CUST1114,26,Other,India,Lahore,Desktop,Safari,4.36,6,1,Clothing,372.7,Credit Card,0,13,1,5,Silver,666,0
+CUST1115,25,Other,USA,London,Mobile,Safari,7.22,4,1,Electronics,332.49,PayPal,0,4,1,5,Gold,372,1
+CUST1116,29,Female,India,New York,Mobile,Chrome,35.55,1,0,Books,121.99,Cash on Delivery,0,6,1,5,Silver,232,0
+CUST1117,51,Other,USA,Toronto,Desktop,Firefox,33.12,7,0,Clothing,53.44,Debit Card,0,5,1,4,None,910,1
+CUST1118,50,Other,UK,Toronto,Mobile,Chrome,14.79,9,0,Home,290.2,Debit Card,0,14,0,4,Silver,827,1
+CUST1119,40,Male,Pakistan,New York,Tablet,Safari,38.63,8,1,Books,279.07,Debit Card,0,9,0,5,None,235,1
+CUST1120,41,Other,USA,Toronto,Mobile,Chrome,49.38,5,1,Beauty,98.25,PayPal,0,10,1,1,None,670,1
+CUST1121,54,Female,UK,New York,Tablet,Edge,3.45,19,0,Clothing,32.84,PayPal,1,9,1,5,Platinum,916,0
+CUST1122,52,Female,USA,London,Mobile,Firefox,30.39,10,0,Beauty,44.95,Credit Card,1,4,0,2,Platinum,827,1
+CUST1123,61,Female,USA,Lahore,Desktop,Chrome,41.67,11,1,Beauty,496.42,Debit Card,1,13,0,5,Gold,762,0
+CUST1124,57,Female,Pakistan,New York,Mobile,Edge,15.89,15,1,Beauty,392.87,Credit Card,1,14,0,4,None,313,1
+CUST1125,39,Other,Canada,Mumbai,Mobile,Firefox,19.16,6,0,Electronics,461.38,Credit Card,0,4,0,4,Platinum,936,1
+CUST1126,44,Other,Canada,New York,Mobile,Edge,37.2,15,0,Beauty,101.55,Cash on Delivery,1,12,1,2,None,941,1
+CUST1127,52,Female,USA,Toronto,Desktop,Firefox,53.98,5,0,Home,480.48,Cash on Delivery,0,8,0,2,Gold,812,0
+CUST1128,18,Female,India,London,Mobile,Chrome,48.79,19,0,Home,75.61,Debit Card,1,10,0,3,None,379,1
+CUST1129,52,Other,UK,London,Desktop,Edge,35.4,19,1,Books,257.0,PayPal,1,4,0,1,Gold,793,0
+CUST1130,54,Female,India,New York,Tablet,Safari,44.08,10,1,Beauty,415.7,Cash on Delivery,0,2,1,1,Gold,613,0
+CUST1131,64,Male,India,Lahore,Mobile,Edge,22.52,12,0,Beauty,178.15,PayPal,0,13,1,1,Gold,562,1
+CUST1132,31,Female,USA,Mumbai,Desktop,Firefox,38.82,4,0,Clothing,215.29,Credit Card,1,13,0,4,Platinum,419,0
+CUST1133,20,Female,USA,London,Desktop,Chrome,28.5,18,0,Electronics,68.45,Credit Card,1,14,0,1,Silver,51,1
+CUST1134,18,Male,USA,Toronto,Mobile,Firefox,12.21,16,1,Books,65.85,Credit Card,1,2,1,3,Silver,720,0
+CUST1135,22,Male,USA,Toronto,Tablet,Edge,42.4,8,0,Beauty,311.69,Credit Card,1,1,1,3,Platinum,818,0
+CUST1136,43,Other,Canada,Lahore,Desktop,Edge,33.83,4,0,Clothing,339.39,Debit Card,0,5,0,1,None,642,0
+CUST1137,31,Other,USA,London,Mobile,Safari,22.16,12,0,Electronics,389.78,Credit Card,1,6,1,2,Platinum,508,0
+CUST1138,56,Male,Canada,New York,Tablet,Chrome,54.77,2,1,Books,280.56,Cash on Delivery,1,9,0,3,None,781,1
+CUST1139,44,Male,Canada,Toronto,Desktop,Chrome,2.24,4,0,Books,324.65,Credit Card,1,5,1,2,Gold,944,0
+CUST1140,26,Other,USA,Lahore,Desktop,Edge,19.63,5,1,Beauty,11.69,PayPal,1,13,0,4,Platinum,204,1
+CUST1141,32,Female,Pakistan,London,Tablet,Chrome,4.36,3,0,Books,85.27,Cash on Delivery,1,6,0,3,Silver,730,0
+CUST1142,32,Male,UK,London,Tablet,Safari,46.23,9,0,Clothing,492.53,PayPal,0,6,1,2,None,256,1
+CUST1143,43,Other,India,London,Mobile,Firefox,42.42,18,0,Books,42.62,PayPal,0,3,0,1,Platinum,184,1
+CUST1144,59,Female,Canada,London,Mobile,Chrome,20.55,11,1,Home,341.0,Debit Card,0,12,1,4,Platinum,144,0
+CUST1145,30,Male,UK,London,Desktop,Edge,40.86,3,0,Clothing,92.16,Debit Card,0,4,1,5,None,689,0
+CUST1146,49,Female,Pakistan,Toronto,Tablet,Firefox,24.36,2,0,Electronics,359.78,PayPal,0,1,1,5,Gold,993,1
+CUST1147,56,Other,India,Lahore,Tablet,Firefox,45.62,9,1,Electronics,354.47,PayPal,1,4,0,1,Gold,13,0
+CUST1148,49,Male,India,London,Tablet,Safari,27.8,14,1,Beauty,120.93,Credit Card,0,1,0,4,Gold,245,0
+CUST1149,21,Female,Canada,Mumbai,Desktop,Edge,25.32,4,1,Beauty,138.47,Cash on Delivery,0,5,0,4,Gold,186,0
+CUST1150,47,Male,USA,Mumbai,Tablet,Chrome,56.15,9,0,Home,329.11,Credit Card,1,11,1,4,None,336,0
+CUST1151,54,Female,Pakistan,Lahore,Tablet,Edge,15.8,13,1,Electronics,198.09,Debit Card,0,11,0,4,Silver,258,0
+CUST1152,40,Other,Canada,New York,Desktop,Firefox,8.11,18,0,Electronics,101.3,Debit Card,0,8,0,5,Platinum,865,0
+CUST1153,56,Other,Pakistan,New York,Mobile,Edge,35.49,15,1,Electronics,367.18,Credit Card,0,8,0,2,Platinum,39,0
+CUST1154,62,Male,USA,New York,Mobile,Chrome,58.19,10,1,Electronics,81.3,Cash on Delivery,0,5,0,4,Gold,600,0
+CUST1155,32,Female,USA,Mumbai,Desktop,Chrome,23.29,16,1,Books,428.54,PayPal,1,14,1,2,None,636,0
+CUST1156,60,Male,Canada,New York,Tablet,Safari,4.66,12,0,Clothing,259.76,Credit Card,1,10,0,4,Silver,961,1
+CUST1157,46,Male,USA,Toronto,Desktop,Chrome,21.02,5,0,Clothing,57.32,Debit Card,0,2,1,3,Silver,417,0
+CUST1158,53,Female,UK,London,Mobile,Chrome,30.85,2,0,Home,348.57,Cash on Delivery,1,12,1,3,Platinum,985,0
+CUST1159,30,Female,India,Mumbai,Mobile,Edge,10.55,10,0,Books,261.99,Debit Card,0,6,1,3,Gold,350,0
+CUST1160,49,Female,Canada,Lahore,Desktop,Edge,39.83,1,0,Electronics,152.54,Cash on Delivery,1,1,1,4,Platinum,8,0
+CUST1161,24,Other,Pakistan,Lahore,Desktop,Firefox,59.87,7,0,Electronics,214.16,Cash on Delivery,1,7,0,2,Platinum,349,0
+CUST1162,39,Male,UK,London,Mobile,Safari,27.65,17,0,Beauty,152.68,Cash on Delivery,1,11,0,5,Silver,83,1
+CUST1163,45,Male,Canada,Mumbai,Desktop,Edge,21.93,16,0,Beauty,135.2,Credit Card,1,4,0,1,None,532,1
+CUST1164,19,Other,USA,New York,Mobile,Chrome,24.64,3,0,Home,85.99,Credit Card,1,5,1,5,Silver,988,0
+CUST1165,59,Female,USA,New York,Desktop,Firefox,7.79,14,1,Electronics,184.57,Credit Card,1,6,0,4,Platinum,792,1
+CUST1166,62,Other,USA,Toronto,Desktop,Edge,53.11,10,1,Home,129.24,Cash on Delivery,1,11,1,3,Gold,357,0
+CUST1167,23,Other,USA,Toronto,Desktop,Safari,25.47,7,0,Books,343.3,Cash on Delivery,1,1,0,3,Gold,377,0
+CUST1168,45,Other,Pakistan,New York,Mobile,Safari,23.85,17,0,Clothing,343.52,Debit Card,1,9,0,2,None,171,1
+CUST1169,45,Male,UK,Lahore,Desktop,Firefox,39.92,6,0,Electronics,253.41,PayPal,1,10,0,4,None,24,1
+CUST1170,61,Other,India,Lahore,Mobile,Firefox,27.08,4,0,Books,390.08,Credit Card,1,4,1,5,None,392,1
+CUST1171,61,Male,Pakistan,Toronto,Mobile,Firefox,39.25,17,1,Electronics,421.46,Cash on Delivery,0,8,0,4,Platinum,102,1
+CUST1172,37,Male,Pakistan,London,Desktop,Firefox,4.63,9,1,Beauty,291.98,Debit Card,1,5,1,4,Platinum,701,1
+CUST1173,47,Male,India,New York,Desktop,Firefox,49.01,4,0,Home,311.37,Debit Card,0,11,1,3,None,235,0
+CUST1174,28,Female,India,Toronto,Mobile,Chrome,56.49,7,1,Beauty,145.03,Debit Card,1,8,1,5,Gold,409,0
+CUST1175,45,Male,USA,Toronto,Mobile,Chrome,39.28,2,1,Clothing,447.96,Credit Card,0,1,0,1,Gold,824,0
+CUST1176,42,Male,Pakistan,New York,Tablet,Edge,57.32,17,0,Beauty,16.98,Credit Card,0,8,0,3,Gold,548,1
+CUST1177,56,Female,Canada,New York,Mobile,Safari,9.93,8,0,Electronics,177.56,PayPal,0,11,1,5,Platinum,783,0
+CUST1178,50,Male,India,Lahore,Tablet,Chrome,29.17,15,0,Beauty,362.29,Debit Card,1,13,1,2,Silver,804,1
+CUST1179,18,Other,India,London,Tablet,Chrome,36.51,15,0,Electronics,44.64,Credit Card,1,11,1,3,Gold,331,0
+CUST1180,44,Other,UK,London,Tablet,Chrome,35.32,8,1,Clothing,95.67,Debit Card,1,4,1,2,Gold,663,1
+CUST1181,30,Male,Canada,New York,Desktop,Edge,24.69,16,0,Beauty,296.7,Cash on Delivery,1,2,1,3,Gold,793,1
+CUST1182,58,Female,Canada,Mumbai,Desktop,Firefox,20.95,19,1,Home,282.2,Debit Card,0,11,0,4,None,531,0
+CUST1183,20,Other,India,Toronto,Mobile,Edge,8.48,11,0,Home,370.77,PayPal,1,6,0,5,Platinum,648,0
+CUST1184,56,Female,USA,Toronto,Tablet,Safari,24.11,2,1,Home,407.24,Credit Card,1,2,0,2,None,982,0
+CUST1185,23,Female,UK,New York,Desktop,Safari,10.6,17,0,Beauty,68.65,Cash on Delivery,1,5,1,3,None,870,0
+CUST1186,25,Other,Canada,Mumbai,Desktop,Safari,44.33,16,0,Beauty,14.1,Credit Card,1,2,1,2,Silver,28,1
+CUST1187,44,Female,India,Lahore,Desktop,Safari,13.32,15,1,Beauty,346.37,Cash on Delivery,1,3,0,3,None,542,0
+CUST1188,26,Other,Canada,New York,Desktop,Chrome,4.46,13,1,Electronics,154.19,Debit Card,1,11,0,3,Silver,18,1
+CUST1189,54,Female,UK,New York,Desktop,Chrome,33.59,15,1,Clothing,314.86,Debit Card,1,6,1,1,None,147,0
+CUST1190,50,Other,UK,Toronto,Tablet,Edge,36.12,4,0,Home,79.52,PayPal,1,1,1,1,Gold,470,0
+CUST1191,59,Male,Pakistan,New York,Tablet,Firefox,52.44,16,1,Electronics,237.17,PayPal,0,6,1,1,Platinum,490,0
+CUST1192,61,Other,India,New York,Tablet,Safari,35.04,12,1,Home,254.69,Cash on Delivery,0,3,0,2,None,282,0
+CUST1193,41,Other,UK,New York,Tablet,Edge,21.38,4,1,Electronics,294.61,PayPal,1,7,1,4,Silver,861,0
+CUST1194,32,Other,Pakistan,Toronto,Mobile,Chrome,48.38,3,1,Beauty,259.02,PayPal,1,2,1,3,Platinum,852,1
+CUST1195,49,Other,Pakistan,Lahore,Tablet,Chrome,32.88,17,1,Home,250.37,PayPal,1,14,1,5,Silver,811,0
+CUST1196,49,Female,Canada,Lahore,Desktop,Firefox,5.68,18,1,Beauty,169.7,PayPal,1,6,0,1,Gold,674,1
+CUST1197,41,Male,Canada,New York,Tablet,Firefox,34.39,18,1,Home,40.23,Debit Card,0,8,1,2,None,112,0
+CUST1198,58,Other,Pakistan,Toronto,Mobile,Firefox,54.57,17,1,Books,49.31,PayPal,0,1,0,2,Platinum,454,1
+CUST1199,29,Female,Canada,Lahore,Desktop,Edge,24.38,12,1,Electronics,219.72,Debit Card,1,11,1,2,Gold,661,0
+CUST1200,56,Male,UK,Lahore,Tablet,Chrome,18.48,4,0,Books,181.12,Debit Card,0,11,1,5,None,329,0
+CUST1201,19,Male,USA,Lahore,Tablet,Chrome,9.46,12,0,Electronics,260.49,Credit Card,0,13,0,5,None,254,0
+CUST1202,20,Male,UK,Toronto,Tablet,Firefox,9.94,15,1,Clothing,155.89,Debit Card,1,9,1,1,Silver,598,1
+CUST1203,54,Male,Pakistan,Toronto,Desktop,Safari,26.53,16,0,Home,345.52,Debit Card,1,5,0,5,Silver,398,1
+CUST1204,34,Other,Pakistan,New York,Desktop,Firefox,36.15,5,0,Clothing,432.66,PayPal,1,5,1,1,Gold,861,0
+CUST1205,19,Other,UK,London,Mobile,Edge,5.76,15,1,Clothing,152.94,Debit Card,0,13,0,5,Silver,609,0
+CUST1206,19,Female,Canada,Lahore,Desktop,Firefox,56.43,17,1,Electronics,100.53,Cash on Delivery,0,12,1,5,Gold,908,0
+CUST1207,45,Female,Canada,London,Desktop,Firefox,45.55,18,1,Books,62.51,PayPal,1,5,0,5,Gold,507,1
+CUST1208,40,Female,Pakistan,Toronto,Tablet,Edge,35.61,5,1,Beauty,310.05,PayPal,1,6,0,1,Gold,643,0
+CUST1209,54,Male,India,Toronto,Desktop,Firefox,49.88,13,1,Electronics,224.71,PayPal,0,2,1,3,Silver,465,1
+CUST1210,49,Male,Canada,Toronto,Tablet,Chrome,5.73,19,1,Beauty,98.07,Credit Card,0,6,0,1,Platinum,823,0
+CUST1211,50,Other,UK,London,Tablet,Safari,29.13,13,0,Clothing,328.3,PayPal,1,14,1,3,Gold,406,1
+CUST1212,18,Male,Canada,Toronto,Desktop,Firefox,38.18,18,1,Beauty,78.5,Debit Card,0,11,0,2,Platinum,608,1
+CUST1213,36,Male,UK,New York,Mobile,Edge,49.89,14,0,Books,279.38,Cash on Delivery,1,4,1,2,None,97,1
+CUST1214,19,Male,Pakistan,Toronto,Mobile,Safari,47.22,4,1,Electronics,265.94,PayPal,1,8,1,1,Silver,289,0
+CUST1215,61,Female,Canada,Mumbai,Desktop,Edge,17.35,4,1,Books,368.44,PayPal,0,13,1,3,Silver,867,1
+CUST1216,43,Female,UK,London,Mobile,Safari,56.51,19,0,Books,32.28,Cash on Delivery,0,11,1,3,Platinum,738,0
+CUST1217,49,Other,Pakistan,Mumbai,Tablet,Safari,8.34,13,1,Electronics,444.5,PayPal,0,9,0,3,None,656,1
+CUST1218,23,Male,India,Toronto,Tablet,Firefox,52.63,12,1,Books,352.98,Credit Card,1,9,1,2,None,155,0
+CUST1219,49,Male,UK,New York,Desktop,Chrome,58.29,7,0,Home,111.98,Debit Card,1,8,1,1,Gold,781,1
+CUST1220,21,Other,India,Lahore,Mobile,Firefox,11.45,12,1,Home,95.79,Cash on Delivery,1,3,1,4,Silver,161,1
+CUST1221,28,Male,India,Toronto,Mobile,Edge,43.6,4,0,Home,218.67,Cash on Delivery,1,10,1,3,None,623,0
+CUST1222,34,Male,USA,New York,Tablet,Edge,3.38,2,1,Beauty,409.69,Credit Card,1,11,1,3,None,842,0
+CUST1223,55,Female,Canada,London,Desktop,Safari,24.92,2,1,Books,422.26,Debit Card,1,11,0,4,Gold,696,1
+CUST1224,41,Other,UK,Mumbai,Mobile,Safari,31.46,5,0,Electronics,262.63,Credit Card,0,4,1,1,Gold,716,1
+CUST1225,22,Other,India,Mumbai,Desktop,Chrome,35.26,10,1,Electronics,431.1,Debit Card,1,1,0,3,Platinum,96,0
+CUST1226,51,Other,USA,Mumbai,Mobile,Firefox,56.22,10,0,Beauty,7.69,Credit Card,1,9,0,1,Silver,376,1
+CUST1227,23,Other,Pakistan,London,Tablet,Edge,40.66,9,0,Electronics,22.41,PayPal,1,5,1,3,None,566,1
+CUST1228,39,Female,UK,New York,Tablet,Safari,29.4,13,0,Home,456.35,Credit Card,1,6,1,5,Platinum,449,0
+CUST1229,28,Female,India,London,Desktop,Chrome,48.77,7,1,Books,388.79,Cash on Delivery,0,3,0,3,Silver,993,0
+CUST1230,33,Male,Canada,Mumbai,Tablet,Edge,57.08,5,1,Electronics,228.1,Cash on Delivery,1,11,0,5,Platinum,116,0
+CUST1231,50,Male,USA,Toronto,Mobile,Safari,2.3,10,0,Electronics,378.04,Cash on Delivery,0,10,0,1,Silver,604,1
+CUST1232,26,Male,India,Lahore,Tablet,Edge,58.97,10,1,Clothing,478.04,Credit Card,0,8,1,3,Silver,804,1
+CUST1233,23,Male,Canada,London,Desktop,Chrome,6.08,6,1,Clothing,387.18,Cash on Delivery,1,7,0,2,None,963,1
+CUST1234,33,Female,India,London,Desktop,Chrome,49.05,19,1,Clothing,421.97,Cash on Delivery,1,1,0,2,Silver,715,0
+CUST1235,46,Other,UK,New York,Desktop,Edge,17.54,8,0,Books,381.5,PayPal,0,10,1,4,Gold,793,1
+CUST1236,20,Female,UK,New York,Mobile,Firefox,8.8,1,1,Home,88.26,PayPal,0,12,0,2,None,505,0
+CUST1237,37,Male,UK,London,Mobile,Edge,26.95,17,0,Home,417.62,Debit Card,1,5,1,5,Gold,188,0
+CUST1238,53,Female,USA,Mumbai,Mobile,Safari,38.99,7,1,Home,101.58,Debit Card,0,10,0,2,Platinum,475,1
+CUST1239,36,Other,UK,Lahore,Mobile,Firefox,23.48,14,1,Books,446.84,Debit Card,1,9,1,2,Platinum,322,0
+CUST1240,43,Other,Canada,New York,Mobile,Safari,4.22,17,0,Books,232.03,Credit Card,1,12,0,2,Silver,595,1
+CUST1241,20,Female,India,Mumbai,Tablet,Edge,36.37,9,1,Clothing,340.1,Debit Card,0,11,1,3,Silver,969,0
+CUST1242,36,Female,Pakistan,Toronto,Mobile,Firefox,54.24,17,0,Electronics,251.13,Credit Card,1,12,1,4,Gold,179,0
+CUST1243,37,Female,Canada,New York,Mobile,Safari,23.61,5,1,Beauty,51.53,Credit Card,1,6,0,1,Gold,785,0
+CUST1244,49,Male,Canada,Mumbai,Tablet,Edge,13.76,8,0,Beauty,148.91,Debit Card,1,8,1,4,Gold,180,1
+CUST1245,24,Female,UK,Mumbai,Mobile,Edge,27.11,6,1,Electronics,491.95,Debit Card,0,10,0,5,Platinum,958,0
+CUST1246,58,Female,USA,Lahore,Desktop,Firefox,3.85,11,1,Clothing,480.55,Credit Card,0,1,1,3,Gold,692,1
+CUST1247,50,Female,India,Lahore,Mobile,Edge,49.41,19,1,Electronics,163.64,PayPal,0,10,1,3,None,794,0
+CUST1248,57,Other,USA,Toronto,Mobile,Chrome,49.75,4,0,Electronics,498.17,Cash on Delivery,1,11,1,2,None,286,0
+CUST1249,56,Other,India,Mumbai,Desktop,Safari,35.69,18,0,Beauty,423.55,Cash on Delivery,0,7,1,2,Platinum,474,0
+CUST1250,35,Male,India,Mumbai,Desktop,Safari,21.83,1,0,Clothing,307.42,Cash on Delivery,0,3,1,5,Gold,617,1
+CUST1251,57,Male,USA,Lahore,Desktop,Edge,48.19,13,1,Books,24.86,PayPal,0,9,1,3,Gold,640,1
+CUST1252,18,Other,Canada,New York,Desktop,Edge,33.73,14,0,Beauty,451.22,Credit Card,1,6,1,1,Silver,261,1
+CUST1253,28,Other,India,New York,Mobile,Chrome,49.73,1,0,Books,280.93,Debit Card,1,5,0,4,None,522,1
+CUST1254,45,Other,USA,London,Desktop,Firefox,38.26,11,0,Clothing,434.9,Credit Card,0,8,0,3,Platinum,161,1
+CUST1255,42,Female,India,Lahore,Desktop,Edge,47.28,17,0,Electronics,418.04,Credit Card,0,8,1,1,Gold,486,0
+CUST1256,40,Female,Pakistan,London,Tablet,Edge,36.32,4,0,Home,417.34,Debit Card,0,12,1,1,Silver,979,0
+CUST1257,48,Other,Canada,Lahore,Desktop,Edge,25.43,12,0,Home,350.6,PayPal,1,12,1,4,Platinum,958,1
+CUST1258,47,Female,UK,Toronto,Desktop,Edge,57.52,10,0,Clothing,149.25,Cash on Delivery,0,3,0,1,Platinum,180,1
+CUST1259,59,Female,India,Mumbai,Tablet,Safari,32.93,6,0,Home,171.4,Cash on Delivery,1,2,1,5,None,724,1
+CUST1260,52,Male,Pakistan,Toronto,Tablet,Edge,36.7,1,0,Books,157.69,Credit Card,1,2,0,1,Gold,468,1
+CUST1261,24,Other,UK,Lahore,Mobile,Safari,14.01,7,0,Home,14.92,PayPal,1,14,1,5,Platinum,785,0
+CUST1262,33,Other,UK,Mumbai,Tablet,Edge,37.91,16,1,Clothing,293.37,Cash on Delivery,0,5,1,1,Silver,20,1
+CUST1263,43,Female,India,New York,Mobile,Firefox,34.72,14,1,Clothing,350.92,PayPal,0,10,1,2,Silver,274,1
+CUST1264,19,Other,USA,New York,Tablet,Chrome,11.91,6,0,Books,427.66,Debit Card,1,12,1,1,Platinum,259,1
+CUST1265,18,Male,India,London,Tablet,Firefox,4.52,5,1,Home,74.38,Credit Card,1,7,1,5,Silver,332,1
+CUST1266,29,Male,Pakistan,Lahore,Mobile,Edge,36.66,18,1,Home,274.37,Credit Card,1,8,0,1,Platinum,465,0
+CUST1267,22,Male,UK,Lahore,Tablet,Edge,46.06,15,0,Electronics,8.96,PayPal,1,10,1,1,Silver,115,0
+CUST1268,54,Other,India,New York,Mobile,Edge,31.88,6,0,Beauty,52.07,Cash on Delivery,0,8,0,1,Platinum,412,1
+CUST1269,49,Other,USA,Toronto,Tablet,Firefox,14.38,19,0,Clothing,31.83,PayPal,0,13,0,5,Platinum,536,0
+CUST1270,26,Other,India,Mumbai,Desktop,Edge,40.32,1,1,Electronics,364.11,Debit Card,1,12,1,1,Platinum,951,0
+CUST1271,58,Other,Canada,Toronto,Tablet,Firefox,5.73,1,0,Clothing,45.12,Cash on Delivery,1,8,1,4,Silver,844,1
+CUST1272,52,Other,USA,Toronto,Mobile,Safari,27.07,13,1,Electronics,359.64,Cash on Delivery,1,10,1,4,Platinum,765,1
+CUST1273,36,Male,Pakistan,New York,Tablet,Chrome,10.64,3,0,Beauty,128.56,PayPal,0,12,0,5,None,958,0
+CUST1274,33,Female,UK,New York,Mobile,Chrome,11.88,10,1,Electronics,439.47,Debit Card,1,11,0,2,Platinum,922,0
+CUST1275,20,Male,India,New York,Mobile,Firefox,12.94,3,1,Clothing,407.51,Cash on Delivery,0,3,0,4,Gold,955,0
+CUST1276,37,Other,USA,London,Desktop,Safari,23.82,9,0,Home,479.13,Credit Card,1,14,1,3,Gold,722,0
+CUST1277,41,Male,Canada,Toronto,Desktop,Firefox,4.02,8,0,Clothing,442.46,Debit Card,0,11,0,4,None,816,0
+CUST1278,50,Other,USA,Lahore,Mobile,Safari,24.47,3,1,Books,467.0,Cash on Delivery,0,2,0,3,Platinum,832,1
+CUST1279,41,Other,Canada,Mumbai,Tablet,Edge,31.19,13,1,Books,430.08,PayPal,1,13,0,5,Gold,933,0
+CUST1280,28,Male,Pakistan,London,Mobile,Safari,29.51,6,0,Books,348.22,Cash on Delivery,0,4,1,2,Platinum,850,0
+CUST1281,25,Other,UK,Lahore,Mobile,Safari,23.58,13,0,Books,89.28,Credit Card,0,1,0,3,Gold,947,0
+CUST1282,53,Female,Pakistan,Toronto,Tablet,Safari,50.51,12,1,Beauty,139.5,Debit Card,0,3,0,3,Silver,256,0
+CUST1283,55,Other,India,New York,Tablet,Chrome,9.57,13,0,Home,110.3,Cash on Delivery,0,11,1,4,Silver,167,0
+CUST1284,57,Female,USA,Toronto,Tablet,Safari,30.84,2,1,Home,303.77,Credit Card,1,9,1,3,None,848,0
+CUST1285,37,Female,Canada,Mumbai,Tablet,Edge,4.66,16,0,Clothing,254.29,Cash on Delivery,1,7,1,5,None,532,0
+CUST1286,52,Other,Canada,London,Mobile,Edge,5.2,6,0,Electronics,434.2,Cash on Delivery,1,7,0,5,Platinum,597,0
+CUST1287,42,Male,USA,London,Mobile,Edge,34.86,19,0,Clothing,476.57,Debit Card,1,1,0,5,None,14,1
+CUST1288,52,Female,USA,Mumbai,Desktop,Safari,34.4,13,1,Clothing,205.41,PayPal,1,7,0,4,Platinum,49,1
+CUST1289,42,Male,India,Lahore,Mobile,Firefox,52.8,17,0,Clothing,255.64,PayPal,0,10,1,2,Silver,998,0
+CUST1290,46,Female,Pakistan,Lahore,Tablet,Firefox,33.91,9,1,Clothing,485.9,Credit Card,0,7,0,4,Silver,303,1
+CUST1291,35,Other,Canada,London,Desktop,Edge,57.63,17,0,Home,141.74,Credit Card,0,4,1,5,Gold,486,1
+CUST1292,63,Other,India,London,Tablet,Chrome,3.87,2,1,Electronics,397.23,Credit Card,0,7,1,4,Platinum,415,1
+CUST1293,35,Female,Pakistan,New York,Mobile,Firefox,6.78,19,1,Clothing,116.49,Debit Card,1,8,0,5,Silver,304,1
+CUST1294,19,Other,India,Lahore,Desktop,Safari,3.6,19,0,Home,342.32,PayPal,1,3,0,1,Silver,195,1
+CUST1295,52,Female,Canada,Mumbai,Tablet,Firefox,11.93,7,1,Clothing,130.54,Credit Card,0,13,0,1,Platinum,875,1
+CUST1296,33,Other,USA,Lahore,Desktop,Edge,32.93,10,1,Books,442.45,Credit Card,1,10,1,3,Gold,812,0
+CUST1297,58,Male,USA,New York,Desktop,Chrome,39.09,10,1,Clothing,282.93,Cash on Delivery,0,2,1,2,Gold,799,0
+CUST1298,53,Other,Pakistan,London,Mobile,Firefox,3.69,9,1,Clothing,97.04,Cash on Delivery,0,7,0,1,Gold,387,1
+CUST1299,50,Male,UK,London,Tablet,Firefox,56.81,17,0,Beauty,116.06,Credit Card,1,5,1,5,Gold,756,0
+CUST1300,21,Other,Pakistan,New York,Desktop,Edge,50.69,15,0,Books,249.46,Cash on Delivery,1,5,0,4,Silver,960,1
+CUST1301,50,Male,UK,Mumbai,Desktop,Chrome,18.5,2,0,Electronics,480.99,Cash on Delivery,1,14,0,4,Platinum,864,0
+CUST1302,31,Other,India,London,Tablet,Chrome,5.55,4,1,Clothing,385.97,Cash on Delivery,1,5,0,3,Platinum,454,0
+CUST1303,38,Male,India,Toronto,Desktop,Edge,11.02,19,1,Electronics,246.71,Debit Card,1,7,1,4,Silver,712,0
+CUST1304,37,Female,Canada,London,Desktop,Safari,8.49,17,0,Books,172.17,Credit Card,1,9,1,1,Silver,704,1
+CUST1305,25,Female,UK,Toronto,Desktop,Firefox,8.27,5,0,Clothing,276.89,Credit Card,1,11,0,4,Silver,847,0
+CUST1306,24,Male,Canada,New York,Tablet,Safari,31.6,7,1,Beauty,375.44,Cash on Delivery,0,8,0,1,None,657,0
+CUST1307,20,Other,USA,New York,Tablet,Firefox,15.5,18,0,Home,393.04,Debit Card,1,6,1,1,Platinum,309,1
+CUST1308,34,Male,UK,London,Tablet,Firefox,22.13,7,0,Beauty,165.68,Cash on Delivery,0,7,0,2,Platinum,126,1
+CUST1309,50,Other,Pakistan,Lahore,Tablet,Safari,59.38,17,1,Beauty,361.97,Debit Card,0,9,1,3,Platinum,174,0
+CUST1310,29,Female,USA,Toronto,Mobile,Edge,41.37,7,0,Home,330.61,Credit Card,1,14,0,5,Gold,133,1
+CUST1311,39,Other,USA,Mumbai,Desktop,Edge,56.99,4,1,Home,479.76,Cash on Delivery,0,11,1,1,Silver,65,0
+CUST1312,39,Female,Pakistan,London,Tablet,Firefox,9.41,8,0,Home,465.89,Credit Card,1,6,0,3,Silver,392,0
+CUST1313,63,Other,USA,Mumbai,Desktop,Edge,23.55,13,1,Clothing,395.74,Debit Card,0,1,1,5,Silver,963,1
+CUST1314,47,Other,UK,London,Desktop,Firefox,33.73,4,1,Electronics,363.08,PayPal,0,4,0,4,None,364,1
+CUST1315,55,Other,Canada,Lahore,Mobile,Edge,5.53,6,1,Electronics,140.65,Debit Card,0,8,1,3,Platinum,278,0
+CUST1316,55,Male,USA,Lahore,Tablet,Firefox,1.25,5,1,Home,423.75,PayPal,1,7,1,3,Silver,757,1
+CUST1317,62,Male,UK,Lahore,Tablet,Edge,40.56,12,1,Beauty,216.62,Credit Card,0,3,1,3,None,362,0
+CUST1318,25,Female,India,Lahore,Desktop,Chrome,38.87,4,0,Books,139.76,Credit Card,0,10,1,4,Silver,748,1
+CUST1319,44,Female,UK,New York,Tablet,Safari,25.24,9,0,Home,195.16,Cash on Delivery,0,3,0,4,Gold,170,1
+CUST1320,44,Male,Canada,New York,Desktop,Chrome,29.89,4,0,Beauty,418.79,PayPal,1,11,1,3,Platinum,50,1
+CUST1321,51,Female,UK,Toronto,Desktop,Safari,25.51,19,1,Beauty,78.57,Debit Card,0,3,1,2,None,327,1
+CUST1322,38,Male,Pakistan,Mumbai,Mobile,Safari,2.42,14,0,Clothing,230.8,Credit Card,1,12,0,1,Silver,870,1
+CUST1323,47,Other,Canada,London,Mobile,Firefox,20.79,5,1,Clothing,248.72,PayPal,0,1,1,4,Platinum,664,0
+CUST1324,50,Female,India,London,Mobile,Safari,11.45,18,1,Electronics,23.13,Debit Card,0,10,0,2,None,591,0
+CUST1325,45,Female,Pakistan,New York,Desktop,Chrome,6.81,10,0,Electronics,101.89,PayPal,0,1,1,4,Platinum,930,0
+CUST1326,64,Male,UK,London,Tablet,Chrome,57.45,19,1,Books,414.24,Debit Card,1,6,1,3,Platinum,144,1
+CUST1327,50,Female,Canada,New York,Mobile,Edge,36.36,12,0,Books,416.23,Debit Card,0,14,1,2,Gold,273,0
+CUST1328,22,Female,India,Toronto,Tablet,Chrome,43.99,18,1,Books,149.75,Debit Card,0,14,1,5,Platinum,154,0
+CUST1329,36,Other,Pakistan,Mumbai,Mobile,Edge,19.61,17,1,Books,438.07,Debit Card,0,1,1,1,None,910,1
+CUST1330,21,Female,India,Toronto,Mobile,Safari,24.2,11,0,Beauty,387.03,PayPal,0,5,1,1,Platinum,507,1
+CUST1331,52,Other,UK,Lahore,Desktop,Chrome,14.98,3,1,Beauty,211.86,PayPal,1,4,0,4,None,848,1
+CUST1332,34,Male,India,Lahore,Mobile,Safari,6.72,17,0,Electronics,375.46,Cash on Delivery,0,5,0,1,Platinum,362,0
+CUST1333,61,Female,USA,Lahore,Mobile,Chrome,11.56,1,1,Clothing,480.86,PayPal,0,7,1,5,Silver,324,0
+CUST1334,45,Other,Pakistan,Toronto,Desktop,Chrome,48.05,15,0,Clothing,232.19,PayPal,0,6,1,2,Gold,847,1
+CUST1335,47,Male,India,London,Tablet,Edge,40.98,9,1,Home,123.02,Cash on Delivery,0,12,0,2,Silver,654,0
+CUST1336,46,Female,UK,Mumbai,Mobile,Safari,33.27,15,0,Beauty,471.2,PayPal,1,9,0,3,Gold,297,0
+CUST1337,63,Male,UK,Lahore,Desktop,Chrome,29.03,3,0,Books,303.85,Debit Card,0,6,1,2,None,493,1
+CUST1338,23,Female,India,Lahore,Mobile,Firefox,55.42,19,1,Books,57.11,Credit Card,0,9,1,4,Gold,545,0
+CUST1339,52,Male,UK,Lahore,Desktop,Safari,5.29,13,0,Home,288.48,Credit Card,1,4,1,5,Platinum,303,1
+CUST1340,58,Male,Canada,Mumbai,Tablet,Safari,17.56,12,1,Clothing,252.79,Cash on Delivery,0,1,1,3,Platinum,466,0
+CUST1341,54,Other,Canada,Lahore,Tablet,Safari,21.65,1,1,Books,428.52,PayPal,0,1,1,4,Silver,903,1
+CUST1342,41,Male,Canada,Mumbai,Desktop,Edge,47.16,17,0,Clothing,267.69,PayPal,0,10,1,4,Gold,238,0
+CUST1343,46,Female,USA,Lahore,Desktop,Firefox,59.56,13,0,Home,131.34,Cash on Delivery,1,7,0,4,None,649,0
+CUST1344,63,Female,India,Toronto,Desktop,Safari,15.2,1,0,Clothing,339.44,Credit Card,0,13,1,1,None,765,1
+CUST1345,48,Other,USA,Toronto,Tablet,Chrome,52.58,10,0,Clothing,273.57,Debit Card,1,13,1,4,Platinum,516,1
+CUST1346,52,Female,UK,Mumbai,Mobile,Chrome,50.01,15,0,Clothing,120.36,PayPal,1,13,0,1,None,883,1
+CUST1347,50,Female,USA,Toronto,Tablet,Edge,14.25,7,1,Books,288.95,Cash on Delivery,1,3,0,2,Platinum,175,1
+CUST1348,38,Female,UK,Mumbai,Desktop,Chrome,24.56,18,0,Electronics,411.66,Debit Card,1,2,0,1,Platinum,884,0
+CUST1349,49,Male,UK,Toronto,Desktop,Safari,25.17,16,1,Beauty,19.14,Cash on Delivery,1,14,0,4,Platinum,409,1
+CUST1350,40,Male,Pakistan,Toronto,Tablet,Chrome,58.72,14,0,Clothing,317.27,Cash on Delivery,1,6,1,5,Silver,725,1
+CUST1351,50,Female,Canada,Mumbai,Desktop,Safari,11.67,18,0,Clothing,178.04,Cash on Delivery,1,6,0,5,Silver,363,1
+CUST1352,20,Other,UK,London,Tablet,Chrome,48.15,7,0,Clothing,149.87,Credit Card,0,13,0,2,Platinum,22,1
+CUST1353,35,Male,Pakistan,Toronto,Desktop,Firefox,20.72,17,1,Electronics,199.33,Credit Card,0,7,1,4,Platinum,317,1
+CUST1354,42,Other,Canada,Lahore,Mobile,Edge,44.12,18,0,Home,174.3,Cash on Delivery,1,5,0,1,Platinum,524,0
+CUST1355,59,Female,UK,London,Mobile,Edge,25.78,12,1,Books,416.96,PayPal,1,8,0,5,None,904,1
+CUST1356,48,Female,UK,Mumbai,Desktop,Firefox,35.12,8,1,Electronics,141.02,Debit Card,1,7,1,3,Platinum,752,1
+CUST1357,20,Male,USA,London,Tablet,Firefox,50.12,2,1,Clothing,367.91,PayPal,1,2,1,4,Platinum,275,1
+CUST1358,57,Female,USA,New York,Mobile,Edge,48.45,7,0,Electronics,51.56,Credit Card,1,1,1,4,Gold,603,0
+CUST1359,63,Male,Canada,New York,Tablet,Firefox,52.12,4,1,Electronics,475.94,Debit Card,1,13,1,3,Gold,619,0
+CUST1360,41,Female,UK,Toronto,Desktop,Safari,4.52,18,0,Electronics,313.05,Cash on Delivery,0,14,1,5,Gold,952,0
+CUST1361,49,Female,India,Toronto,Tablet,Chrome,41.83,6,1,Home,354.83,PayPal,0,9,1,3,Gold,228,1
+CUST1362,64,Male,USA,Lahore,Mobile,Edge,9.26,9,0,Beauty,152.53,PayPal,1,5,1,2,Platinum,663,1
+CUST1363,39,Male,Canada,London,Tablet,Firefox,25.53,9,1,Books,208.99,Cash on Delivery,1,12,0,1,Gold,107,0
+CUST1364,40,Male,UK,New York,Tablet,Safari,33.37,14,0,Home,115.77,PayPal,1,11,0,1,None,800,0
+CUST1365,19,Female,UK,Toronto,Desktop,Edge,24.76,8,0,Home,466.61,Credit Card,0,5,1,5,None,915,1
+CUST1366,44,Female,India,London,Desktop,Firefox,31.66,19,0,Beauty,246.61,Cash on Delivery,1,12,0,3,Gold,955,1
+CUST1367,59,Other,Canada,Toronto,Desktop,Edge,59.8,3,1,Home,317.07,PayPal,0,10,1,4,Silver,175,1
+CUST1368,19,Male,UK,Toronto,Mobile,Firefox,8.98,18,1,Electronics,368.46,Cash on Delivery,0,4,0,4,None,319,0
+CUST1369,43,Female,USA,New York,Mobile,Edge,40.85,5,0,Electronics,188.7,Debit Card,0,2,1,4,None,285,1
+CUST1370,34,Female,India,New York,Desktop,Safari,24.36,14,1,Clothing,361.45,Cash on Delivery,1,5,0,2,Gold,875,1
+CUST1371,57,Male,Canada,Toronto,Desktop,Safari,8.85,4,1,Home,339.62,PayPal,1,2,1,2,Gold,328,0
+CUST1372,50,Other,India,Mumbai,Mobile,Chrome,10.37,7,1,Clothing,354.3,Credit Card,0,12,0,4,Platinum,876,0
+CUST1373,26,Male,USA,Toronto,Mobile,Edge,57.01,12,1,Books,247.17,Cash on Delivery,0,7,1,5,None,752,0
+CUST1374,60,Other,Canada,Toronto,Mobile,Chrome,52.9,2,1,Electronics,194.55,Cash on Delivery,0,11,0,2,Gold,656,1
+CUST1375,56,Female,India,Lahore,Mobile,Edge,54.52,11,1,Books,114.93,PayPal,0,9,0,2,Gold,355,0
+CUST1376,46,Other,Pakistan,Lahore,Desktop,Firefox,59.5,14,1,Beauty,413.19,Credit Card,1,9,1,1,Platinum,13,0
+CUST1377,59,Female,USA,Lahore,Mobile,Firefox,13.29,16,0,Electronics,306.13,Credit Card,0,11,0,1,None,274,1
+CUST1378,43,Male,USA,Mumbai,Desktop,Chrome,21.97,6,0,Books,224.95,Debit Card,1,6,0,5,Gold,70,1
+CUST1379,52,Male,USA,Mumbai,Tablet,Edge,40.48,4,1,Beauty,472.28,Debit Card,0,1,0,2,Platinum,826,0
+CUST1380,42,Male,Pakistan,Toronto,Tablet,Chrome,29.54,15,0,Books,28.68,PayPal,1,13,0,2,Gold,194,1
+CUST1381,41,Other,Pakistan,Lahore,Mobile,Safari,25.68,1,0,Beauty,425.84,Credit Card,0,6,0,3,Silver,864,0
+CUST1382,30,Female,UK,Mumbai,Tablet,Chrome,22.11,7,0,Beauty,498.8,Credit Card,1,5,1,5,Silver,811,1
+CUST1383,24,Male,India,New York,Tablet,Chrome,36.03,12,1,Electronics,444.04,Debit Card,1,4,1,5,Gold,927,1
+CUST1384,53,Male,UK,Toronto,Tablet,Firefox,34.96,10,1,Clothing,406.17,Debit Card,1,12,0,3,None,878,0
+CUST1385,62,Female,India,London,Mobile,Chrome,10.53,5,1,Beauty,190.28,PayPal,0,6,1,3,Silver,522,0
+CUST1386,37,Male,Pakistan,Toronto,Mobile,Edge,28.83,12,1,Beauty,119.5,Credit Card,1,6,0,1,Platinum,105,0
+CUST1387,18,Female,Pakistan,London,Tablet,Firefox,33.65,18,1,Electronics,368.75,Cash on Delivery,0,14,1,5,Gold,769,1
+CUST1388,25,Female,UK,Lahore,Desktop,Chrome,34.65,10,0,Clothing,155.76,Debit Card,1,6,0,5,Platinum,985,0
+CUST1389,63,Female,Canada,London,Tablet,Safari,13.4,6,1,Home,92.14,PayPal,1,2,0,3,Silver,892,1
+CUST1390,33,Female,UK,Lahore,Mobile,Chrome,44.79,12,0,Home,394.33,Credit Card,0,14,0,4,None,195,1
+CUST1391,31,Female,India,New York,Mobile,Chrome,2.49,7,1,Clothing,159.71,Credit Card,1,7,0,4,Platinum,144,0
+CUST1392,29,Other,UK,London,Mobile,Chrome,21.94,18,0,Books,457.65,Debit Card,1,14,1,1,Silver,976,1
+CUST1393,40,Male,USA,Toronto,Tablet,Firefox,47.03,2,1,Electronics,421.11,PayPal,0,4,1,4,Silver,731,1
+CUST1394,32,Other,India,Lahore,Desktop,Edge,34.27,10,1,Clothing,424.58,Cash on Delivery,1,13,1,4,Silver,349,0
+CUST1395,45,Male,India,Toronto,Mobile,Safari,16.41,15,1,Home,386.93,Debit Card,1,12,0,4,Platinum,423,1
+CUST1396,51,Other,Canada,Mumbai,Mobile,Chrome,42.0,12,1,Beauty,441.04,PayPal,1,9,1,2,Silver,470,1
+CUST1397,19,Female,Pakistan,Lahore,Tablet,Edge,34.48,17,1,Home,403.84,Credit Card,1,10,1,1,Gold,685,0
+CUST1398,49,Male,India,London,Desktop,Edge,47.98,4,1,Beauty,303.24,Cash on Delivery,0,2,0,3,Silver,215,0
+CUST1399,40,Male,Pakistan,Lahore,Tablet,Firefox,44.37,7,0,Electronics,151.43,PayPal,1,5,0,4,Gold,92,1
+CUST1400,39,Other,UK,Toronto,Mobile,Safari,37.0,9,1,Beauty,444.66,Cash on Delivery,1,14,0,2,None,259,1
+CUST1401,42,Other,USA,New York,Desktop,Firefox,29.8,19,0,Clothing,421.1,PayPal,1,4,1,4,Gold,933,1
+CUST1402,39,Male,Canada,Lahore,Desktop,Edge,8.86,7,1,Beauty,239.08,PayPal,1,9,1,2,None,574,1
+CUST1403,39,Other,Pakistan,London,Mobile,Edge,16.42,2,0,Books,24.34,PayPal,1,4,0,1,None,540,0
+CUST1404,59,Other,India,Mumbai,Desktop,Edge,25.73,6,0,Clothing,321.08,PayPal,1,8,1,4,Gold,786,1
+CUST1405,23,Other,Pakistan,New York,Desktop,Firefox,36.36,18,0,Electronics,30.05,Cash on Delivery,1,8,0,2,None,858,1
+CUST1406,32,Female,India,Mumbai,Tablet,Safari,31.31,6,0,Clothing,463.51,Debit Card,1,6,1,5,Gold,284,1
+CUST1407,60,Female,Pakistan,Lahore,Mobile,Chrome,18.0,13,0,Books,481.01,Cash on Delivery,0,6,0,5,Platinum,483,1
+CUST1408,54,Other,India,Toronto,Mobile,Firefox,1.38,19,0,Electronics,98.8,PayPal,0,11,1,2,None,930,0
+CUST1409,50,Other,UK,Toronto,Mobile,Edge,30.28,2,1,Home,339.81,Cash on Delivery,0,8,1,4,Gold,371,1
+CUST1410,25,Female,India,London,Mobile,Firefox,17.85,12,0,Books,50.67,Cash on Delivery,0,12,1,4,None,69,0
+CUST1411,61,Female,India,Toronto,Mobile,Edge,44.34,15,1,Electronics,366.11,Cash on Delivery,1,13,0,1,Silver,378,0
+CUST1412,61,Male,USA,New York,Desktop,Chrome,2.41,14,1,Beauty,176.91,PayPal,1,12,0,1,Gold,278,0
+CUST1413,22,Male,India,Toronto,Tablet,Chrome,35.5,6,0,Clothing,342.12,Cash on Delivery,0,10,0,3,Silver,742,0
+CUST1414,56,Female,USA,London,Mobile,Safari,56.55,18,0,Electronics,189.57,Credit Card,0,9,1,1,None,301,0
+CUST1415,21,Other,Canada,Lahore,Tablet,Edge,11.29,5,1,Clothing,77.06,PayPal,0,5,0,4,None,254,1
+CUST1416,23,Other,USA,Lahore,Tablet,Safari,28.83,18,0,Beauty,206.02,Cash on Delivery,1,11,1,3,Platinum,683,0
+CUST1417,62,Other,UK,Toronto,Desktop,Safari,6.39,3,0,Electronics,60.77,Credit Card,1,1,0,1,Gold,943,0
+CUST1418,49,Other,USA,Mumbai,Mobile,Chrome,37.92,3,0,Home,290.56,Cash on Delivery,0,1,0,2,Silver,691,0
+CUST1419,47,Male,Canada,Lahore,Desktop,Firefox,33.48,10,0,Books,25.27,Debit Card,0,2,1,5,Platinum,263,1
+CUST1420,64,Female,UK,Toronto,Mobile,Firefox,25.03,19,0,Electronics,266.02,Cash on Delivery,0,10,1,1,None,694,0
+CUST1421,52,Other,Pakistan,London,Desktop,Safari,31.76,3,0,Beauty,443.75,Cash on Delivery,0,10,0,1,None,833,1
+CUST1422,57,Male,Pakistan,Toronto,Tablet,Chrome,53.9,12,0,Electronics,419.75,Debit Card,0,5,0,2,Platinum,716,0
+CUST1423,33,Other,USA,Lahore,Mobile,Edge,12.58,16,1,Clothing,441.98,PayPal,1,4,1,4,Silver,423,0
+CUST1424,30,Female,USA,London,Tablet,Firefox,2.33,17,0,Electronics,461.41,Debit Card,0,1,1,2,None,760,1
+CUST1425,59,Male,Canada,Toronto,Tablet,Safari,51.84,7,1,Home,56.74,PayPal,1,4,0,1,None,212,1
+CUST1426,47,Female,Canada,New York,Desktop,Firefox,35.05,13,1,Electronics,68.73,Debit Card,0,4,1,4,Gold,670,1
+CUST1427,36,Female,India,London,Mobile,Firefox,53.55,2,1,Books,280.72,Cash on Delivery,0,10,0,3,Platinum,943,0
+CUST1428,34,Male,Canada,New York,Tablet,Edge,36.22,4,1,Electronics,447.52,Cash on Delivery,1,4,0,1,None,99,1
+CUST1429,36,Male,India,Mumbai,Desktop,Chrome,48.8,10,0,Clothing,487.3,PayPal,0,1,0,2,Silver,828,1
+CUST1430,45,Male,UK,London,Mobile,Edge,26.35,7,1,Electronics,27.9,PayPal,1,9,1,3,Gold,111,1
+CUST1431,43,Male,USA,New York,Mobile,Chrome,45.24,17,1,Home,181.11,Credit Card,1,14,0,5,Platinum,307,1
+CUST1432,54,Male,UK,Lahore,Tablet,Firefox,54.87,6,1,Beauty,110.38,Credit Card,0,3,0,3,Silver,677,1
+CUST1433,43,Male,Canada,Lahore,Mobile,Safari,34.76,19,1,Electronics,379.2,Cash on Delivery,0,13,1,2,None,474,0
+CUST1434,40,Male,UK,Mumbai,Tablet,Edge,11.67,5,1,Electronics,321.9,Cash on Delivery,1,4,1,3,Platinum,547,1
+CUST1435,26,Other,UK,London,Mobile,Chrome,16.86,10,0,Books,64.34,Credit Card,1,5,1,2,Platinum,111,0
+CUST1436,29,Female,UK,London,Desktop,Firefox,12.72,9,0,Home,244.34,Credit Card,0,13,0,1,Silver,86,1
+CUST1437,18,Male,Canada,London,Tablet,Chrome,15.56,13,1,Beauty,344.29,PayPal,1,13,1,4,Platinum,182,1
+CUST1438,18,Other,UK,Mumbai,Tablet,Chrome,19.08,19,0,Clothing,390.61,Debit Card,0,7,1,5,Silver,596,0
+CUST1439,64,Other,India,London,Mobile,Chrome,33.75,6,0,Electronics,14.93,PayPal,1,6,0,4,None,780,0
+CUST1440,51,Other,Canada,Lahore,Mobile,Firefox,35.69,4,1,Beauty,445.78,Credit Card,0,5,0,4,Gold,164,0
+CUST1441,49,Female,UK,New York,Tablet,Safari,26.16,3,1,Clothing,286.79,Cash on Delivery,1,8,0,4,Silver,814,0
+CUST1442,42,Male,Canada,Lahore,Mobile,Safari,37.31,3,1,Home,406.9,Credit Card,1,14,0,2,Gold,89,1
+CUST1443,57,Other,Pakistan,Lahore,Desktop,Safari,5.81,4,0,Home,404.93,Cash on Delivery,0,1,1,2,Platinum,999,0
+CUST1444,62,Female,India,New York,Mobile,Chrome,6.18,5,1,Beauty,98.98,Cash on Delivery,1,7,0,5,Silver,454,1
+CUST1445,18,Female,UK,Lahore,Desktop,Firefox,11.14,8,0,Clothing,59.54,Cash on Delivery,1,12,1,2,None,237,1
+CUST1446,33,Female,Pakistan,Mumbai,Desktop,Chrome,31.57,16,0,Home,362.04,Cash on Delivery,1,6,0,2,Silver,998,1
+CUST1447,56,Other,Pakistan,New York,Desktop,Safari,13.63,3,0,Beauty,82.43,Debit Card,1,11,0,2,Silver,533,0
+CUST1448,22,Male,Canada,Lahore,Desktop,Safari,17.71,12,1,Home,425.72,Credit Card,1,5,1,2,Silver,678,0
+CUST1449,39,Other,Pakistan,Toronto,Desktop,Firefox,24.62,8,0,Home,364.46,PayPal,1,7,1,1,Gold,726,0
+CUST1450,46,Other,India,Lahore,Mobile,Chrome,48.9,13,1,Home,421.7,Cash on Delivery,1,3,1,5,Gold,57,1
+CUST1451,20,Male,India,Mumbai,Desktop,Edge,1.82,4,1,Books,153.01,Cash on Delivery,0,1,0,2,Platinum,541,0
+CUST1452,29,Male,USA,London,Mobile,Edge,39.31,14,1,Clothing,161.72,PayPal,1,9,0,5,Platinum,913,0
+CUST1453,43,Male,India,Lahore,Desktop,Safari,40.46,14,1,Beauty,337.25,PayPal,1,2,1,3,Platinum,617,1
+CUST1454,33,Female,Pakistan,London,Tablet,Firefox,48.12,13,1,Beauty,20.57,Cash on Delivery,0,13,1,1,Platinum,401,0
+CUST1455,54,Male,India,Toronto,Desktop,Chrome,56.03,6,0,Clothing,364.62,PayPal,1,10,0,2,Silver,841,1
+CUST1456,39,Other,Canada,Lahore,Tablet,Chrome,2.19,17,0,Clothing,418.71,PayPal,1,3,1,1,Gold,678,0
+CUST1457,46,Male,USA,New York,Desktop,Safari,10.07,4,0,Clothing,210.51,Debit Card,0,8,1,1,Gold,861,0
+CUST1458,31,Other,Pakistan,London,Desktop,Safari,53.28,8,0,Clothing,383.62,PayPal,1,12,0,3,Gold,665,0
+CUST1459,45,Female,USA,Toronto,Desktop,Chrome,28.05,17,0,Electronics,91.43,Credit Card,1,10,1,5,Gold,838,0
+CUST1460,22,Other,Pakistan,New York,Tablet,Chrome,34.31,3,1,Beauty,164.52,Credit Card,0,9,0,1,Platinum,518,0
+CUST1461,64,Other,Canada,New York,Tablet,Safari,40.12,17,1,Electronics,487.28,Credit Card,0,13,0,4,Silver,196,1
+CUST1462,47,Male,USA,New York,Desktop,Chrome,41.06,9,0,Home,493.23,Cash on Delivery,1,3,0,3,Gold,832,0
+CUST1463,63,Male,UK,New York,Mobile,Edge,55.97,2,0,Home,258.74,Credit Card,1,6,1,4,None,45,0
+CUST1464,22,Other,Pakistan,Lahore,Desktop,Safari,59.82,13,0,Beauty,467.46,Debit Card,0,7,1,3,Silver,529,0
+CUST1465,29,Male,UK,Lahore,Tablet,Chrome,43.49,2,1,Home,263.75,Credit Card,1,1,1,4,None,396,0
+CUST1466,33,Female,USA,Lahore,Desktop,Safari,17.95,11,1,Clothing,149.34,Cash on Delivery,0,14,1,4,Silver,664,0
+CUST1467,43,Female,UK,Toronto,Tablet,Firefox,52.91,15,1,Electronics,137.12,Debit Card,0,7,0,1,Silver,999,0
+CUST1468,43,Male,UK,Toronto,Tablet,Safari,3.9,11,0,Clothing,465.11,Credit Card,0,4,0,1,Silver,775,0
+CUST1469,38,Female,USA,Toronto,Tablet,Safari,14.63,3,0,Home,90.36,Debit Card,1,5,1,3,None,73,1
+CUST1470,56,Male,Canada,Mumbai,Desktop,Firefox,53.95,3,0,Electronics,291.92,Debit Card,0,8,1,5,Gold,415,1
+CUST1471,53,Other,UK,Toronto,Tablet,Edge,16.12,12,0,Clothing,279.98,Cash on Delivery,0,4,1,1,Gold,656,0
+CUST1472,50,Other,UK,Lahore,Tablet,Chrome,14.02,5,1,Beauty,371.11,Cash on Delivery,0,4,1,1,None,613,1
+CUST1473,47,Female,Canada,Lahore,Desktop,Firefox,9.15,7,0,Clothing,252.13,Debit Card,1,8,0,2,Gold,334,0
+CUST1474,54,Male,UK,Mumbai,Tablet,Safari,51.69,7,0,Home,139.78,Credit Card,1,5,1,1,Platinum,846,1
+CUST1475,40,Male,UK,Mumbai,Desktop,Chrome,30.5,13,0,Electronics,88.85,Cash on Delivery,1,13,0,5,Gold,632,0
+CUST1476,27,Female,UK,Toronto,Tablet,Firefox,40.82,9,1,Beauty,312.31,Debit Card,0,6,1,2,Platinum,687,0
+CUST1477,22,Other,India,London,Mobile,Chrome,15.1,13,1,Electronics,360.9,PayPal,1,12,1,4,Platinum,574,1
+CUST1478,53,Female,Canada,Mumbai,Mobile,Chrome,45.72,12,0,Beauty,286.91,PayPal,1,11,1,4,Platinum,295,0
+CUST1479,51,Other,UK,New York,Tablet,Firefox,45.84,13,1,Electronics,370.48,Cash on Delivery,0,14,0,2,None,83,1
+CUST1480,48,Male,Canada,Lahore,Mobile,Chrome,19.44,10,1,Home,75.05,Credit Card,0,5,1,2,Gold,14,0
+CUST1481,27,Other,Pakistan,New York,Desktop,Edge,25.23,1,1,Beauty,441.82,PayPal,1,1,0,2,Gold,866,0
+CUST1482,36,Female,Pakistan,Lahore,Mobile,Firefox,13.37,8,1,Books,293.29,PayPal,1,7,0,3,None,133,0
+CUST1483,49,Male,UK,Lahore,Tablet,Edge,58.62,16,1,Electronics,67.79,PayPal,0,6,1,5,None,477,0
+CUST1484,18,Female,Canada,Mumbai,Tablet,Safari,39.09,13,0,Electronics,233.65,Credit Card,1,2,0,5,Gold,632,1
+CUST1485,22,Female,Canada,Mumbai,Desktop,Chrome,56.14,3,0,Clothing,423.17,Credit Card,0,11,0,4,None,318,0
+CUST1486,62,Other,Canada,New York,Tablet,Safari,18.9,3,0,Beauty,449.29,Cash on Delivery,0,7,0,4,None,391,1
+CUST1487,21,Female,India,Lahore,Desktop,Safari,47.13,5,1,Books,136.0,Cash on Delivery,1,6,1,4,Platinum,478,1
+CUST1488,33,Other,Pakistan,New York,Mobile,Chrome,46.19,11,1,Home,357.08,PayPal,1,5,0,1,None,639,0
+CUST1489,41,Male,Canada,London,Mobile,Firefox,41.81,7,1,Clothing,54.49,Credit Card,1,8,0,4,Platinum,367,0
+CUST1490,33,Other,Canada,New York,Desktop,Chrome,57.97,10,1,Books,21.61,Debit Card,1,5,1,2,Silver,366,1
+CUST1491,19,Male,India,Toronto,Desktop,Safari,24.22,10,0,Beauty,282.4,PayPal,0,11,1,4,Platinum,287,1
+CUST1492,45,Other,India,New York,Tablet,Safari,8.71,2,0,Books,348.94,Cash on Delivery,1,2,0,2,Platinum,812,0
+CUST1493,49,Female,Canada,Toronto,Mobile,Firefox,40.63,3,0,Electronics,398.91,Credit Card,1,6,0,3,None,377,1
+CUST1494,44,Other,USA,Toronto,Desktop,Chrome,44.03,8,0,Electronics,173.41,Cash on Delivery,1,14,0,1,Gold,691,1
+CUST1495,37,Other,Canada,Toronto,Mobile,Safari,34.93,11,0,Clothing,8.23,Cash on Delivery,0,12,0,1,Silver,462,1
+CUST1496,41,Male,Canada,London,Desktop,Edge,13.2,13,0,Beauty,242.36,Credit Card,1,1,1,5,Silver,593,0
+CUST1497,29,Female,India,New York,Mobile,Safari,30.76,7,1,Beauty,12.85,PayPal,1,5,1,3,Silver,12,1
+CUST1498,52,Other,India,New York,Tablet,Safari,19.42,13,1,Books,50.53,Credit Card,0,14,0,2,Gold,535,1
+CUST1499,50,Female,Canada,London,Mobile,Firefox,26.22,2,0,Clothing,166.71,PayPal,0,6,1,3,Silver,167,1
+CUST1500,50,Other,Canada,Lahore,Mobile,Edge,39.07,6,1,Beauty,221.4,Cash on Delivery,0,7,0,1,Silver,269,1
+CUST1501,60,Other,Canada,Mumbai,Mobile,Safari,44.97,9,0,Electronics,143.34,Credit Card,0,14,1,2,Gold,987,0
+CUST1502,54,Female,India,New York,Mobile,Safari,14.7,2,0,Books,293.02,Debit Card,0,2,1,3,Silver,970,0
+CUST1503,29,Other,Canada,Mumbai,Mobile,Edge,24.91,18,1,Home,32.4,PayPal,1,1,0,1,None,69,1
+CUST1504,20,Female,Canada,London,Tablet,Chrome,16.88,16,0,Electronics,76.57,Debit Card,0,6,0,2,None,317,1
+CUST1505,18,Other,UK,Lahore,Desktop,Chrome,12.72,12,0,Clothing,349.15,PayPal,0,3,0,2,Platinum,375,1
+CUST1506,50,Male,USA,Lahore,Mobile,Safari,47.22,7,0,Beauty,75.36,Credit Card,0,5,0,1,Platinum,88,0
+CUST1507,57,Female,Pakistan,Lahore,Tablet,Safari,54.65,7,1,Electronics,321.69,Debit Card,0,12,1,2,Platinum,700,0
+CUST1508,27,Other,USA,London,Mobile,Chrome,22.84,17,1,Home,32.07,Credit Card,0,11,1,1,None,256,1
+CUST1509,60,Other,UK,Toronto,Mobile,Firefox,45.33,13,1,Home,206.65,PayPal,0,13,0,4,None,216,1
+CUST1510,61,Male,Pakistan,Toronto,Desktop,Edge,53.92,11,1,Clothing,92.82,PayPal,0,2,1,4,None,449,0
+CUST1511,46,Female,Canada,Mumbai,Mobile,Edge,50.92,6,0,Electronics,59.27,PayPal,0,1,1,2,Platinum,893,1
+CUST1512,30,Other,UK,Toronto,Tablet,Firefox,11.79,14,1,Books,285.68,PayPal,1,1,0,2,Platinum,543,1
+CUST1513,29,Male,Canada,Toronto,Tablet,Firefox,57.42,6,1,Electronics,464.53,Cash on Delivery,1,13,0,1,Platinum,140,0
+CUST1514,48,Other,India,Lahore,Desktop,Firefox,23.22,6,1,Home,32.12,PayPal,1,11,1,2,Platinum,160,0
+CUST1515,63,Female,UK,Lahore,Mobile,Firefox,21.02,2,0,Clothing,213.67,Debit Card,0,4,0,5,Platinum,31,0
+CUST1516,19,Other,India,Mumbai,Tablet,Firefox,4.68,15,1,Clothing,355.23,PayPal,0,10,0,4,Platinum,823,0
+CUST1517,52,Other,UK,New York,Mobile,Firefox,29.68,17,1,Books,234.03,Credit Card,0,13,1,2,None,151,0
+CUST1518,40,Other,UK,Mumbai,Mobile,Edge,7.43,8,0,Clothing,404.22,Cash on Delivery,1,2,1,2,Gold,858,1
+CUST1519,34,Other,India,Mumbai,Mobile,Firefox,15.66,5,0,Clothing,93.92,Debit Card,0,1,0,3,Gold,259,0
+CUST1520,43,Male,Pakistan,London,Desktop,Chrome,19.7,17,0,Clothing,480.0,Cash on Delivery,0,6,1,2,Platinum,727,0
+CUST1521,25,Male,USA,London,Mobile,Firefox,48.72,1,0,Clothing,195.66,Cash on Delivery,0,14,0,5,Gold,278,0
+CUST1522,46,Female,Canada,Mumbai,Tablet,Firefox,52.65,18,1,Clothing,174.08,Cash on Delivery,1,4,0,4,Gold,284,0
+CUST1523,43,Male,UK,Mumbai,Mobile,Edge,18.85,15,0,Home,437.93,Credit Card,1,10,1,3,None,609,0
+CUST1524,27,Male,Canada,Mumbai,Tablet,Edge,51.66,5,1,Electronics,284.11,Cash on Delivery,0,13,1,1,Platinum,916,0
+CUST1525,43,Female,India,Toronto,Mobile,Firefox,51.58,7,1,Beauty,260.64,Cash on Delivery,1,12,0,1,Platinum,541,1
+CUST1526,51,Male,Canada,London,Tablet,Edge,46.11,18,1,Clothing,364.85,PayPal,0,7,0,4,Gold,601,0
+CUST1527,58,Male,India,Mumbai,Tablet,Safari,9.66,6,1,Beauty,292.02,Credit Card,0,11,0,1,Platinum,147,1
+CUST1528,24,Female,Canada,Lahore,Mobile,Edge,41.73,5,1,Beauty,85.45,Debit Card,1,6,1,5,Platinum,655,1
+CUST1529,21,Female,USA,Lahore,Mobile,Edge,56.76,19,0,Home,338.73,Debit Card,1,5,0,2,Platinum,66,0
+CUST1530,62,Female,USA,Toronto,Tablet,Edge,41.27,10,1,Clothing,71.07,Debit Card,1,10,1,4,Platinum,944,0
+CUST1531,28,Other,USA,Toronto,Desktop,Edge,20.57,15,1,Beauty,403.9,Credit Card,1,12,0,3,Gold,868,1
+CUST1532,46,Other,USA,New York,Mobile,Chrome,30.53,10,1,Clothing,494.92,Debit Card,0,13,1,2,Silver,569,1
+CUST1533,53,Female,USA,New York,Desktop,Chrome,39.1,16,0,Books,191.81,Credit Card,0,12,0,1,Gold,999,1
+CUST1534,42,Female,USA,New York,Mobile,Chrome,31.12,12,1,Books,225.15,PayPal,1,12,1,1,None,939,0
+CUST1535,38,Female,India,Toronto,Mobile,Firefox,8.08,18,1,Books,27.98,PayPal,1,12,0,3,Silver,792,1
+CUST1536,53,Other,UK,Toronto,Mobile,Firefox,19.41,1,0,Beauty,11.8,Credit Card,0,2,0,5,Silver,278,0
+CUST1537,27,Other,Canada,Toronto,Mobile,Safari,48.34,16,1,Books,461.1,Debit Card,0,5,0,3,Silver,747,0
+CUST1538,54,Male,USA,Lahore,Desktop,Chrome,51.82,6,1,Home,68.67,Credit Card,0,9,0,4,Gold,442,1
+CUST1539,26,Male,India,Toronto,Mobile,Firefox,9.1,3,0,Home,225.66,Credit Card,0,9,1,3,None,896,0
+CUST1540,41,Female,India,Lahore,Tablet,Edge,57.19,2,1,Beauty,408.6,Cash on Delivery,1,2,1,1,Gold,864,0
+CUST1541,52,Other,India,New York,Tablet,Edge,20.4,2,1,Clothing,445.21,Credit Card,1,7,1,5,None,398,1
+CUST1542,52,Other,UK,New York,Desktop,Chrome,40.08,13,1,Electronics,262.1,Cash on Delivery,1,10,1,5,Gold,127,1
+CUST1543,53,Other,Canada,New York,Mobile,Safari,45.36,9,1,Clothing,284.69,PayPal,0,14,1,3,Gold,336,0
+CUST1544,35,Female,UK,Mumbai,Tablet,Safari,48.9,16,1,Clothing,336.49,Cash on Delivery,0,4,0,4,Gold,481,1
+CUST1545,56,Male,Pakistan,Mumbai,Desktop,Edge,56.8,5,0,Clothing,480.88,Credit Card,1,13,1,1,Silver,720,0
+CUST1546,49,Female,India,London,Mobile,Safari,19.46,7,0,Clothing,303.32,PayPal,1,13,1,2,Gold,947,1
+CUST1547,41,Male,Pakistan,London,Tablet,Chrome,51.65,13,0,Electronics,281.94,Cash on Delivery,1,3,1,5,None,185,1
+CUST1548,40,Male,USA,London,Tablet,Edge,8.77,13,1,Books,12.19,Credit Card,0,11,1,3,None,168,1
+CUST1549,49,Female,USA,Mumbai,Desktop,Firefox,42.6,7,1,Clothing,45.07,PayPal,1,1,0,4,None,683,1
+CUST1550,54,Male,UK,Mumbai,Mobile,Firefox,44.78,10,1,Home,290.7,Cash on Delivery,0,3,0,4,Silver,259,0
+CUST1551,29,Male,Canada,London,Mobile,Safari,40.99,15,0,Beauty,468.44,Credit Card,1,11,0,1,Gold,716,1
+CUST1552,30,Other,Pakistan,London,Tablet,Edge,15.89,6,1,Beauty,434.01,Credit Card,1,9,0,5,Gold,963,0
+CUST1553,40,Male,Canada,Toronto,Tablet,Edge,52.51,5,1,Home,491.38,Debit Card,1,14,1,1,Platinum,646,0
+CUST1554,42,Female,UK,London,Tablet,Firefox,10.96,2,1,Clothing,266.28,Debit Card,0,9,1,2,Silver,557,1
+CUST1555,52,Female,USA,Toronto,Mobile,Edge,4.16,15,0,Electronics,395.03,Cash on Delivery,0,7,0,2,None,506,1
+CUST1556,58,Male,Canada,Lahore,Desktop,Edge,43.33,16,0,Books,421.0,Cash on Delivery,0,3,0,2,None,520,1
+CUST1557,47,Other,Canada,Mumbai,Desktop,Edge,29.05,19,1,Beauty,325.78,Cash on Delivery,0,13,1,4,Gold,470,1
+CUST1558,34,Other,USA,London,Mobile,Safari,51.1,9,1,Books,172.68,Credit Card,0,3,1,5,None,160,1
+CUST1559,37,Male,Pakistan,Mumbai,Desktop,Edge,23.62,19,1,Electronics,237.64,Cash on Delivery,0,4,0,1,Gold,288,0
+CUST1560,42,Male,USA,Mumbai,Tablet,Chrome,10.93,7,0,Beauty,429.67,Credit Card,1,7,0,1,Gold,339,1
+CUST1561,39,Female,Canada,Mumbai,Desktop,Safari,50.35,4,0,Books,152.78,Cash on Delivery,0,7,0,2,Platinum,899,0
+CUST1562,30,Male,Pakistan,Lahore,Desktop,Edge,33.39,3,0,Electronics,462.25,Credit Card,1,12,0,5,Silver,832,0
+CUST1563,36,Other,Pakistan,New York,Desktop,Edge,12.16,11,1,Books,118.75,Credit Card,0,12,1,5,Gold,501,0
+CUST1564,53,Male,USA,London,Tablet,Chrome,43.5,1,0,Clothing,376.01,Debit Card,1,14,1,3,Gold,105,0
+CUST1565,29,Female,Canada,New York,Mobile,Safari,31.16,6,1,Electronics,317.13,PayPal,1,2,1,5,Gold,801,1
+CUST1566,58,Female,UK,New York,Tablet,Firefox,36.65,11,1,Books,376.05,Credit Card,0,12,0,5,Platinum,474,1
+CUST1567,36,Female,Canada,New York,Mobile,Firefox,28.19,1,0,Clothing,221.49,Cash on Delivery,1,5,1,1,Gold,852,0
+CUST1568,29,Female,India,Mumbai,Mobile,Safari,49.89,7,1,Clothing,466.66,Debit Card,0,7,1,5,Silver,599,0
+CUST1569,26,Female,UK,Toronto,Mobile,Edge,49.94,6,0,Electronics,318.07,Cash on Delivery,0,7,0,5,Silver,462,1
+CUST1570,24,Male,Pakistan,Mumbai,Desktop,Edge,42.85,14,1,Home,147.71,Cash on Delivery,0,6,0,1,None,482,0
+CUST1571,45,Male,UK,Mumbai,Desktop,Firefox,7.22,2,1,Beauty,321.04,Credit Card,0,10,0,5,Silver,703,1
+CUST1572,31,Male,Pakistan,New York,Mobile,Firefox,50.49,4,0,Electronics,146.97,Credit Card,1,10,0,1,None,152,0
+CUST1573,48,Male,Pakistan,Mumbai,Mobile,Firefox,40.59,11,1,Clothing,150.35,PayPal,0,12,0,3,Silver,822,1
+CUST1574,36,Female,UK,New York,Desktop,Chrome,42.12,15,1,Clothing,202.8,Credit Card,1,8,0,4,None,648,0
+CUST1575,64,Other,Pakistan,Toronto,Tablet,Firefox,22.42,18,1,Electronics,426.95,Credit Card,1,3,1,1,Gold,784,0
+CUST1576,33,Male,Pakistan,London,Mobile,Chrome,52.88,1,1,Home,252.65,PayPal,1,1,1,1,Platinum,148,0
+CUST1577,22,Other,India,New York,Tablet,Safari,43.8,3,1,Beauty,341.06,Cash on Delivery,0,3,1,5,Platinum,187,1
+CUST1578,52,Male,Canada,Toronto,Desktop,Edge,7.64,3,1,Books,199.02,PayPal,1,11,1,1,Platinum,652,1
+CUST1579,29,Male,Canada,London,Mobile,Firefox,25.06,7,1,Electronics,135.48,PayPal,0,2,1,2,Gold,130,1
+CUST1580,42,Other,India,Lahore,Tablet,Edge,53.3,1,1,Beauty,477.55,PayPal,1,2,1,2,Platinum,451,0
+CUST1581,38,Female,UK,New York,Tablet,Edge,3.78,11,0,Beauty,303.77,Debit Card,0,14,0,3,Silver,515,0
+CUST1582,53,Male,USA,New York,Tablet,Firefox,57.72,6,0,Clothing,467.31,Cash on Delivery,0,14,0,1,None,490,0
+CUST1583,40,Male,USA,Lahore,Desktop,Firefox,41.07,3,1,Books,105.69,Debit Card,0,2,0,5,Gold,475,0
+CUST1584,33,Male,USA,Lahore,Desktop,Safari,38.25,19,1,Electronics,77.71,Debit Card,0,5,1,5,Platinum,262,0
+CUST1585,56,Other,India,New York,Tablet,Chrome,16.96,2,0,Clothing,428.63,Credit Card,1,13,1,4,Silver,537,0
+CUST1586,62,Female,India,Lahore,Tablet,Chrome,15.68,18,1,Clothing,342.05,PayPal,1,1,0,3,Silver,458,1
+CUST1587,59,Other,Pakistan,Mumbai,Desktop,Edge,56.58,12,0,Home,97.36,PayPal,0,10,0,5,Gold,535,1
+CUST1588,56,Other,USA,London,Tablet,Firefox,18.6,10,0,Beauty,138.33,Debit Card,1,4,0,4,Gold,777,1
+CUST1589,31,Female,UK,London,Tablet,Safari,46.75,5,0,Electronics,401.33,Credit Card,0,14,0,5,Platinum,740,0
+CUST1590,48,Other,UK,London,Desktop,Safari,24.19,9,1,Electronics,229.66,Credit Card,0,10,0,4,None,780,1
+CUST1591,22,Female,USA,Mumbai,Tablet,Safari,9.22,2,1,Electronics,336.92,Credit Card,1,5,1,2,Platinum,636,0
+CUST1592,52,Male,USA,Lahore,Tablet,Safari,1.63,2,1,Clothing,162.58,Cash on Delivery,0,2,1,2,Platinum,683,0
+CUST1593,40,Female,USA,Toronto,Tablet,Safari,33.11,6,0,Home,193.71,Debit Card,0,5,1,5,Gold,745,1
+CUST1594,46,Male,India,Lahore,Desktop,Chrome,58.57,10,0,Books,495.4,Cash on Delivery,0,10,0,3,Platinum,294,0
+CUST1595,60,Other,India,New York,Tablet,Chrome,22.78,18,0,Clothing,127.57,Credit Card,0,4,1,1,Platinum,914,0
+CUST1596,28,Other,India,London,Desktop,Chrome,22.07,12,1,Books,255.7,Credit Card,0,8,0,3,None,434,0
+CUST1597,35,Male,Canada,Lahore,Desktop,Firefox,21.3,4,0,Home,422.98,Credit Card,1,1,1,3,Silver,274,0
+CUST1598,64,Other,UK,Toronto,Mobile,Edge,31.71,17,0,Beauty,123.42,PayPal,1,12,0,1,Silver,587,0
+CUST1599,29,Female,UK,New York,Mobile,Safari,27.0,15,1,Electronics,210.53,Debit Card,1,5,0,2,None,307,1
+CUST1600,26,Male,Pakistan,Mumbai,Tablet,Firefox,52.91,6,0,Books,309.47,PayPal,0,14,1,2,Silver,725,1
+CUST1601,27,Other,India,Mumbai,Desktop,Safari,30.83,16,0,Clothing,243.19,Cash on Delivery,0,14,1,1,Platinum,942,0
+CUST1602,61,Male,Canada,Toronto,Mobile,Chrome,30.96,17,1,Books,232.45,PayPal,0,11,1,4,None,996,0
+CUST1603,34,Female,Canada,New York,Tablet,Firefox,9.16,3,1,Beauty,184.44,Debit Card,0,12,1,3,None,375,1
+CUST1604,55,Female,UK,London,Mobile,Chrome,58.98,10,0,Electronics,295.39,PayPal,0,10,1,5,Gold,157,1
+CUST1605,24,Other,India,Lahore,Mobile,Safari,15.75,5,1,Books,314.06,Credit Card,0,1,0,2,Silver,813,1
+CUST1606,63,Female,Pakistan,New York,Desktop,Safari,5.33,14,0,Beauty,328.38,Cash on Delivery,1,10,1,5,Gold,203,0
+CUST1607,30,Male,India,Mumbai,Desktop,Edge,40.13,13,1,Clothing,39.83,Cash on Delivery,0,10,1,1,Platinum,988,1
+CUST1608,57,Female,USA,Toronto,Mobile,Safari,36.13,6,0,Home,317.36,Credit Card,1,4,0,5,None,660,1
+CUST1609,59,Male,India,Toronto,Mobile,Chrome,25.49,12,1,Clothing,476.85,Credit Card,0,8,1,5,Platinum,74,0
+CUST1610,26,Male,USA,Lahore,Desktop,Safari,25.91,8,0,Electronics,272.79,Credit Card,1,1,0,3,Silver,379,0
+CUST1611,44,Female,USA,Toronto,Tablet,Edge,47.32,5,1,Clothing,359.06,Debit Card,0,11,1,1,Gold,740,1
+CUST1612,19,Other,Pakistan,Toronto,Desktop,Edge,12.55,15,1,Clothing,280.58,PayPal,1,2,1,5,Silver,303,0
+CUST1613,22,Female,UK,New York,Mobile,Chrome,49.39,16,1,Clothing,428.1,Cash on Delivery,1,1,0,2,Platinum,61,1
+CUST1614,46,Male,India,London,Tablet,Firefox,39.28,1,1,Clothing,465.14,PayPal,0,11,1,1,Gold,569,1
+CUST1615,54,Male,USA,Lahore,Mobile,Safari,25.72,16,1,Electronics,96.19,Credit Card,0,7,1,2,Silver,785,0
+CUST1616,55,Female,India,New York,Tablet,Edge,28.02,5,1,Beauty,221.25,Credit Card,1,2,1,4,Platinum,107,0
+CUST1617,36,Other,UK,London,Mobile,Safari,16.14,3,1,Books,199.23,PayPal,0,1,1,5,Silver,186,1
+CUST1618,25,Other,UK,New York,Tablet,Safari,45.37,15,0,Home,205.58,Cash on Delivery,0,12,0,1,None,986,0
+CUST1619,62,Male,Canada,New York,Tablet,Firefox,31.26,13,0,Books,67.13,Debit Card,0,6,0,2,Gold,228,0
+CUST1620,18,Male,UK,Toronto,Mobile,Edge,19.93,16,1,Books,407.74,PayPal,1,6,1,5,Gold,47,0
+CUST1621,39,Other,Pakistan,London,Tablet,Safari,36.17,11,1,Home,22.7,Credit Card,0,10,1,3,Gold,830,0
+CUST1622,34,Female,USA,Lahore,Desktop,Edge,59.75,2,0,Electronics,266.47,Credit Card,1,2,0,2,None,267,0
+CUST1623,24,Male,Canada,Lahore,Mobile,Chrome,26.68,6,0,Home,332.63,Debit Card,1,1,0,2,Gold,726,0
+CUST1624,42,Male,Pakistan,London,Desktop,Chrome,55.32,6,1,Electronics,107.7,PayPal,0,14,1,4,None,801,0
+CUST1625,62,Other,India,Toronto,Mobile,Safari,21.36,14,0,Books,453.4,Debit Card,1,10,0,3,Gold,253,1
+CUST1626,21,Female,USA,Mumbai,Tablet,Edge,4.23,11,0,Electronics,420.08,Debit Card,0,3,0,4,Silver,956,0
+CUST1627,53,Other,UK,New York,Tablet,Safari,13.05,8,1,Beauty,238.19,Cash on Delivery,0,10,0,3,Silver,869,1
+CUST1628,23,Female,USA,Toronto,Tablet,Edge,25.7,8,1,Home,208.52,Cash on Delivery,1,14,0,2,Silver,86,0
+CUST1629,48,Female,India,London,Mobile,Edge,13.96,1,1,Beauty,122.1,Credit Card,1,5,1,4,Silver,180,1
+CUST1630,36,Female,Canada,New York,Desktop,Firefox,1.01,7,0,Books,366.35,PayPal,1,6,0,5,None,24,0
+CUST1631,61,Male,Canada,Lahore,Desktop,Firefox,54.99,6,1,Home,70.21,Cash on Delivery,1,3,1,3,Platinum,957,1
+CUST1632,56,Other,Canada,Mumbai,Mobile,Firefox,50.79,8,1,Books,341.72,Credit Card,1,9,1,2,Platinum,387,0
+CUST1633,44,Other,UK,Lahore,Mobile,Safari,44.8,19,0,Beauty,422.02,PayPal,0,11,0,1,Silver,221,1
+CUST1634,27,Female,Pakistan,London,Desktop,Firefox,10.9,8,1,Books,118.09,Credit Card,1,5,1,3,Platinum,989,0
+CUST1635,43,Male,Pakistan,New York,Desktop,Firefox,8.1,14,0,Home,433.88,Cash on Delivery,0,13,1,3,Platinum,396,0
+CUST1636,36,Male,USA,London,Desktop,Chrome,4.99,18,0,Home,21.49,Credit Card,0,2,0,5,Gold,937,1
+CUST1637,56,Other,UK,New York,Desktop,Edge,43.72,16,0,Books,456.83,PayPal,1,10,0,3,None,510,1
+CUST1638,20,Male,Canada,Toronto,Mobile,Edge,55.8,9,0,Home,63.59,PayPal,1,6,0,3,Silver,560,0
+CUST1639,62,Male,Canada,Mumbai,Mobile,Firefox,26.4,15,0,Home,324.65,Credit Card,1,12,1,5,Platinum,845,1
+CUST1640,30,Female,India,Toronto,Tablet,Edge,8.03,10,0,Books,128.79,PayPal,1,8,1,5,Platinum,439,1
+CUST1641,45,Male,India,Toronto,Desktop,Chrome,31.23,16,1,Beauty,419.09,Credit Card,1,11,1,4,Silver,174,0
+CUST1642,37,Female,Canada,London,Tablet,Chrome,21.58,4,1,Home,258.59,PayPal,0,6,1,2,Gold,903,1
+CUST1643,45,Other,Canada,Mumbai,Mobile,Firefox,23.11,13,1,Home,71.94,Credit Card,0,4,0,2,Silver,310,0
+CUST1644,25,Male,UK,New York,Mobile,Chrome,37.66,5,0,Home,287.64,Credit Card,0,6,1,4,Gold,983,1
+CUST1645,58,Other,Pakistan,New York,Tablet,Edge,43.4,7,1,Home,206.9,Credit Card,1,8,0,2,Platinum,273,0
+CUST1646,56,Other,India,Lahore,Desktop,Safari,7.53,9,0,Books,332.42,Debit Card,1,8,0,3,None,34,1
+CUST1647,18,Male,Pakistan,New York,Desktop,Edge,3.1,8,1,Beauty,441.54,PayPal,0,13,0,4,Gold,216,0
+CUST1648,20,Male,UK,London,Desktop,Safari,59.67,16,0,Beauty,207.65,Cash on Delivery,1,10,0,4,Gold,720,0
+CUST1649,30,Other,Canada,Toronto,Desktop,Firefox,14.73,6,1,Electronics,148.49,Credit Card,1,2,1,2,Silver,671,1
+CUST1650,45,Male,Pakistan,Toronto,Tablet,Safari,4.18,16,0,Home,12.18,Debit Card,1,8,0,1,Platinum,407,1
+CUST1651,42,Female,Canada,Toronto,Tablet,Chrome,12.2,6,1,Home,289.55,Cash on Delivery,0,6,1,2,None,518,0
+CUST1652,50,Female,Canada,Mumbai,Mobile,Edge,3.3,14,0,Electronics,204.13,Credit Card,1,2,0,1,Silver,268,0
+CUST1653,55,Male,USA,New York,Desktop,Safari,24.12,1,1,Beauty,190.45,Cash on Delivery,0,1,0,4,Silver,637,1
+CUST1654,23,Other,Pakistan,London,Desktop,Edge,48.34,9,0,Clothing,95.55,Debit Card,1,6,0,1,None,474,1
+CUST1655,61,Male,Pakistan,Mumbai,Desktop,Firefox,21.13,13,1,Clothing,217.88,Cash on Delivery,1,13,1,3,Platinum,879,1
+CUST1656,62,Male,Canada,Lahore,Tablet,Firefox,27.21,19,1,Beauty,492.3,Credit Card,0,7,0,5,None,324,1
+CUST1657,49,Other,UK,London,Desktop,Chrome,40.86,17,1,Home,152.39,Cash on Delivery,1,14,0,1,Silver,355,1
+CUST1658,62,Other,USA,London,Tablet,Firefox,31.02,11,0,Clothing,301.85,Cash on Delivery,1,14,0,5,Silver,89,1
+CUST1659,64,Female,Canada,London,Desktop,Safari,51.83,8,0,Books,389.36,Credit Card,1,10,0,3,Gold,41,0
+CUST1660,38,Other,India,Toronto,Desktop,Firefox,52.1,5,0,Books,375.83,Debit Card,0,5,1,5,None,364,1
+CUST1661,33,Female,India,London,Mobile,Chrome,1.58,10,0,Electronics,167.74,Debit Card,1,14,1,3,None,670,1
+CUST1662,38,Other,USA,New York,Desktop,Edge,46.9,7,0,Beauty,307.38,Cash on Delivery,1,10,0,5,None,201,1
+CUST1663,28,Male,UK,London,Desktop,Edge,28.18,10,1,Beauty,436.28,PayPal,1,8,0,5,Silver,365,1
+CUST1664,54,Female,Canada,Toronto,Mobile,Firefox,59.34,4,0,Clothing,12.65,Cash on Delivery,1,11,1,2,Platinum,793,0
+CUST1665,53,Female,Pakistan,London,Tablet,Safari,29.51,9,1,Home,220.69,PayPal,1,13,1,1,Silver,981,0
+CUST1666,52,Female,USA,Lahore,Tablet,Chrome,59.23,14,1,Beauty,116.02,Cash on Delivery,0,12,1,5,Gold,843,0
+CUST1667,36,Male,UK,Lahore,Desktop,Safari,45.52,2,0,Clothing,197.37,Debit Card,0,9,0,4,Silver,287,0
+CUST1668,37,Male,Pakistan,Toronto,Tablet,Chrome,15.67,9,1,Clothing,210.91,Cash on Delivery,1,4,1,2,Silver,602,1
+CUST1669,35,Male,India,New York,Desktop,Firefox,32.77,1,0,Beauty,374.6,Cash on Delivery,1,7,0,1,Silver,480,0
+CUST1670,64,Male,India,New York,Mobile,Chrome,59.54,10,0,Clothing,51.44,PayPal,0,8,1,2,Gold,636,1
+CUST1671,58,Male,Pakistan,Mumbai,Mobile,Chrome,51.59,10,0,Electronics,258.73,Debit Card,1,13,1,1,None,500,1
+CUST1672,31,Female,USA,Toronto,Desktop,Firefox,6.74,3,1,Electronics,284.28,PayPal,1,6,0,3,Platinum,637,0
+CUST1673,32,Male,India,London,Mobile,Safari,42.68,6,0,Beauty,249.61,Cash on Delivery,1,2,1,5,Platinum,51,0
+CUST1674,48,Female,Canada,Toronto,Mobile,Firefox,21.39,6,0,Home,367.28,Credit Card,1,7,0,4,Gold,915,1
+CUST1675,18,Male,Pakistan,Mumbai,Desktop,Chrome,1.41,2,0,Electronics,194.98,Cash on Delivery,1,13,1,2,None,102,0
+CUST1676,20,Other,Pakistan,Toronto,Desktop,Firefox,24.81,18,1,Electronics,472.76,Cash on Delivery,1,9,0,2,None,360,0
+CUST1677,33,Female,India,Toronto,Mobile,Chrome,14.85,2,0,Beauty,243.49,PayPal,1,5,1,2,Gold,423,1
+CUST1678,40,Other,USA,Mumbai,Tablet,Firefox,49.31,12,1,Books,287.75,Credit Card,1,2,1,2,Silver,698,1
+CUST1679,28,Female,Canada,New York,Tablet,Edge,20.9,5,1,Clothing,413.64,Credit Card,0,4,0,5,None,204,1
+CUST1680,29,Other,USA,London,Desktop,Edge,49.82,7,0,Electronics,141.24,PayPal,0,3,0,1,Platinum,13,1
+CUST1681,27,Male,UK,Mumbai,Desktop,Firefox,1.04,16,1,Books,42.23,Debit Card,1,4,0,5,Gold,939,1
+CUST1682,49,Male,UK,Lahore,Tablet,Safari,19.16,1,1,Home,355.35,Credit Card,1,10,0,3,Platinum,615,0
+CUST1683,33,Male,India,New York,Mobile,Chrome,15.23,1,0,Books,244.09,Credit Card,1,7,1,5,Silver,628,1
+CUST1684,25,Female,India,Lahore,Tablet,Edge,14.78,17,0,Beauty,448.77,PayPal,1,10,1,5,Gold,469,1
+CUST1685,55,Other,India,New York,Tablet,Safari,5.02,1,0,Home,491.43,Debit Card,0,8,1,3,Platinum,465,1
+CUST1686,29,Male,UK,London,Tablet,Chrome,12.04,13,1,Home,202.56,Debit Card,0,1,1,5,Platinum,303,0
+CUST1687,41,Other,USA,London,Tablet,Edge,33.78,9,0,Books,210.64,Cash on Delivery,0,13,1,1,Silver,604,1
+CUST1688,45,Other,USA,Toronto,Desktop,Edge,18.19,15,1,Beauty,206.94,Cash on Delivery,0,8,1,4,Gold,426,1
+CUST1689,25,Male,India,Lahore,Desktop,Firefox,25.63,3,1,Electronics,165.65,PayPal,1,5,0,3,None,655,0
+CUST1690,45,Male,Canada,New York,Mobile,Chrome,23.24,14,1,Books,391.94,Debit Card,1,12,1,2,None,109,1
+CUST1691,53,Other,USA,London,Mobile,Safari,52.68,11,1,Electronics,380.7,PayPal,1,7,1,1,Platinum,674,1
+CUST1692,43,Male,UK,Mumbai,Mobile,Safari,54.41,12,1,Books,241.93,Cash on Delivery,0,11,0,4,Silver,564,1
+CUST1693,25,Male,Pakistan,London,Mobile,Safari,30.08,13,0,Electronics,27.11,PayPal,1,11,1,1,Platinum,929,0
+CUST1694,45,Male,Pakistan,Mumbai,Tablet,Chrome,20.48,13,0,Books,158.23,PayPal,1,1,1,1,Silver,514,0
+CUST1695,45,Female,Pakistan,New York,Desktop,Safari,7.3,1,1,Home,149.69,Credit Card,0,2,1,2,None,67,1
+CUST1696,54,Other,Canada,London,Desktop,Safari,57.25,10,1,Clothing,406.49,Credit Card,0,1,0,4,Platinum,245,1
+CUST1697,58,Other,India,London,Mobile,Safari,4.55,3,0,Home,48.35,Credit Card,0,5,0,1,Platinum,388,1
+CUST1698,53,Female,UK,New York,Mobile,Firefox,18.56,4,0,Electronics,403.81,Cash on Delivery,0,14,1,2,Silver,649,0
+CUST1699,44,Other,Canada,London,Tablet,Firefox,18.59,16,1,Beauty,336.25,PayPal,0,14,0,3,Gold,307,0
+CUST1700,34,Male,UK,Mumbai,Tablet,Chrome,19.9,8,1,Home,367.56,Credit Card,1,6,1,2,Silver,924,0
+CUST1701,26,Other,UK,London,Mobile,Chrome,10.69,16,0,Clothing,218.95,Credit Card,1,10,1,5,Gold,351,0
+CUST1702,50,Male,India,Lahore,Desktop,Safari,47.21,17,0,Electronics,341.46,Credit Card,0,9,1,2,None,798,0
+CUST1703,37,Female,Pakistan,Toronto,Desktop,Firefox,8.23,19,1,Home,306.47,Cash on Delivery,1,8,0,2,Platinum,65,0
+CUST1704,30,Male,India,Mumbai,Desktop,Edge,38.46,15,0,Books,385.65,Cash on Delivery,1,7,1,2,Platinum,459,1
+CUST1705,45,Other,Canada,Lahore,Mobile,Edge,8.31,16,0,Beauty,226.15,PayPal,1,12,1,1,Silver,346,0
+CUST1706,46,Other,Canada,New York,Desktop,Safari,5.16,15,1,Electronics,239.05,PayPal,1,5,1,4,Silver,324,1
+CUST1707,30,Other,Canada,Mumbai,Tablet,Safari,54.66,2,1,Home,323.57,PayPal,0,14,1,2,None,932,0
+CUST1708,63,Female,India,Toronto,Tablet,Firefox,12.22,11,1,Electronics,58.5,Credit Card,1,3,1,2,None,666,1
+CUST1709,52,Female,UK,Toronto,Mobile,Firefox,49.45,1,0,Books,220.94,Debit Card,1,9,0,5,Gold,598,0
+CUST1710,23,Other,UK,New York,Tablet,Firefox,33.13,15,1,Clothing,486.12,Cash on Delivery,1,13,1,5,None,32,1
+CUST1711,35,Male,USA,New York,Mobile,Chrome,5.59,19,0,Home,23.59,Credit Card,0,5,0,3,None,67,1
+CUST1712,22,Female,Canada,Mumbai,Desktop,Chrome,57.37,4,1,Electronics,161.42,Credit Card,1,3,1,3,None,186,1
+CUST1713,64,Other,UK,London,Desktop,Safari,15.57,11,1,Electronics,160.48,PayPal,0,3,0,5,None,191,0
+CUST1714,42,Other,USA,New York,Desktop,Chrome,51.72,5,0,Electronics,318.56,PayPal,0,3,1,4,Gold,212,0
+CUST1715,19,Female,UK,London,Tablet,Firefox,10.96,3,0,Clothing,57.37,Credit Card,0,14,1,3,None,599,0
+CUST1716,27,Female,Canada,Lahore,Mobile,Firefox,51.38,13,1,Electronics,316.13,Cash on Delivery,0,6,0,4,Gold,427,1
+CUST1717,47,Female,Pakistan,Toronto,Desktop,Chrome,1.78,10,1,Beauty,52.04,Cash on Delivery,1,1,0,5,Silver,350,1
+CUST1718,62,Male,Canada,London,Mobile,Edge,31.2,11,0,Beauty,52.0,Credit Card,0,11,1,3,Platinum,107,1
+CUST1719,22,Male,India,Toronto,Desktop,Safari,46.4,18,1,Electronics,365.45,Debit Card,0,4,0,2,Silver,239,0
+CUST1720,50,Other,UK,London,Tablet,Edge,56.15,2,0,Beauty,165.45,Debit Card,0,13,0,5,None,215,0
+CUST1721,18,Female,UK,Lahore,Tablet,Safari,54.64,7,0,Home,488.82,Cash on Delivery,0,8,1,3,Platinum,176,1
+CUST1722,35,Male,India,New York,Mobile,Edge,49.36,9,1,Beauty,23.49,PayPal,0,3,1,4,None,564,0
+CUST1723,49,Female,India,Lahore,Tablet,Chrome,53.4,10,0,Electronics,225.33,Debit Card,1,5,1,4,None,329,0
+CUST1724,64,Other,Pakistan,New York,Tablet,Safari,12.75,18,0,Books,61.0,Debit Card,0,2,1,3,Silver,560,0
+CUST1725,28,Male,UK,New York,Mobile,Safari,17.77,7,0,Home,178.93,PayPal,1,2,1,4,None,880,0
+CUST1726,38,Male,UK,Toronto,Desktop,Safari,18.05,7,1,Clothing,499.12,Debit Card,1,11,0,3,Silver,625,1
+CUST1727,43,Male,Pakistan,Lahore,Tablet,Firefox,23.25,3,0,Electronics,444.98,Credit Card,0,13,1,3,None,449,0
+CUST1728,42,Other,USA,London,Mobile,Firefox,24.21,12,1,Clothing,28.92,Debit Card,1,7,0,4,Gold,606,0
+CUST1729,39,Female,Pakistan,Lahore,Tablet,Edge,33.13,7,1,Books,283.81,PayPal,1,10,1,1,Platinum,446,1
+CUST1730,44,Male,Canada,Toronto,Tablet,Chrome,10.43,17,1,Clothing,325.67,Credit Card,1,3,1,2,Silver,536,1
+CUST1731,30,Other,UK,New York,Tablet,Firefox,41.78,1,0,Electronics,108.72,Debit Card,0,5,0,5,Silver,643,0
+CUST1732,50,Female,India,Toronto,Tablet,Safari,10.89,5,0,Electronics,76.83,Cash on Delivery,0,3,1,2,Platinum,178,0
+CUST1733,51,Other,Canada,Mumbai,Mobile,Firefox,19.31,16,1,Books,452.67,Credit Card,0,6,0,5,Silver,394,0
+CUST1734,58,Female,UK,Mumbai,Mobile,Chrome,30.7,15,1,Electronics,484.56,Credit Card,0,13,0,5,Platinum,144,0
+CUST1735,52,Other,Pakistan,London,Mobile,Firefox,47.99,2,0,Books,495.99,Cash on Delivery,0,10,0,2,Gold,875,1
+CUST1736,18,Female,Canada,Toronto,Tablet,Safari,44.63,9,1,Books,395.93,Cash on Delivery,0,3,1,3,None,961,1
+CUST1737,38,Male,UK,London,Tablet,Edge,39.09,7,1,Electronics,333.43,Debit Card,0,8,1,4,Gold,197,1
+CUST1738,23,Female,USA,London,Tablet,Safari,10.19,4,0,Beauty,176.14,Debit Card,1,2,1,1,None,968,0
+CUST1739,45,Other,USA,Mumbai,Mobile,Chrome,33.28,18,1,Books,89.84,PayPal,1,3,1,1,Platinum,836,0
+CUST1740,34,Other,India,London,Tablet,Edge,6.16,4,0,Electronics,44.1,PayPal,0,8,1,1,Gold,83,1
+CUST1741,22,Female,UK,Mumbai,Desktop,Firefox,23.26,13,0,Beauty,348.18,Credit Card,1,8,1,2,None,668,0
+CUST1742,48,Male,USA,New York,Tablet,Firefox,25.4,1,1,Books,393.44,Cash on Delivery,0,1,0,2,Platinum,84,1
+CUST1743,22,Male,Pakistan,Toronto,Desktop,Firefox,3.35,3,0,Beauty,414.09,Cash on Delivery,0,8,1,3,None,456,1
+CUST1744,55,Female,UK,London,Tablet,Edge,17.17,16,0,Home,457.31,PayPal,0,10,1,1,Silver,475,1
+CUST1745,20,Female,Pakistan,Mumbai,Mobile,Safari,57.38,4,0,Home,440.57,Credit Card,1,2,1,3,Silver,252,1
+CUST1746,40,Other,Pakistan,Lahore,Tablet,Edge,57.26,16,1,Beauty,499.87,Credit Card,0,12,1,1,Platinum,886,1
+CUST1747,54,Male,USA,London,Desktop,Edge,21.79,19,1,Books,125.81,PayPal,0,7,0,2,None,71,1
+CUST1748,54,Female,UK,New York,Desktop,Chrome,3.54,1,1,Electronics,382.84,PayPal,0,6,0,4,Silver,222,1
+CUST1749,27,Male,Canada,New York,Tablet,Edge,11.57,5,0,Clothing,295.3,PayPal,0,2,0,4,Gold,275,0
+CUST1750,27,Female,USA,Lahore,Desktop,Firefox,24.14,19,0,Electronics,134.32,Debit Card,1,5,0,4,None,794,1
+CUST1751,36,Female,USA,Mumbai,Desktop,Safari,56.92,11,1,Clothing,491.04,Credit Card,0,7,0,4,None,775,1
+CUST1752,34,Male,UK,London,Mobile,Safari,9.33,13,1,Clothing,449.46,Credit Card,1,8,1,5,Silver,245,0
+CUST1753,38,Female,UK,Mumbai,Tablet,Safari,46.05,5,0,Books,68.62,Credit Card,1,3,0,1,Silver,340,1
+CUST1754,31,Female,Pakistan,New York,Tablet,Firefox,7.41,4,1,Beauty,17.95,PayPal,0,1,0,4,Platinum,572,0
+CUST1755,26,Other,UK,Mumbai,Tablet,Firefox,58.89,4,1,Electronics,345.72,PayPal,0,13,1,5,None,923,1
+CUST1756,63,Female,Pakistan,New York,Desktop,Firefox,23.52,4,1,Beauty,304.04,PayPal,1,7,1,5,Gold,470,0
+CUST1757,18,Female,USA,Mumbai,Tablet,Firefox,46.74,4,1,Home,468.23,PayPal,1,13,0,5,Silver,453,0
+CUST1758,62,Female,India,Lahore,Tablet,Firefox,21.21,18,1,Books,120.83,Cash on Delivery,1,5,1,3,None,770,0
+CUST1759,30,Other,Canada,Toronto,Mobile,Edge,38.03,18,0,Books,46.77,PayPal,1,5,1,3,Silver,964,1
+CUST1760,21,Male,USA,Lahore,Mobile,Firefox,12.33,16,1,Home,133.31,Debit Card,0,7,0,5,Platinum,968,0
+CUST1761,18,Other,UK,Lahore,Mobile,Firefox,9.62,9,1,Electronics,14.37,Cash on Delivery,1,1,1,4,None,6,1
+CUST1762,57,Other,Canada,Toronto,Desktop,Firefox,56.35,18,0,Home,22.77,Cash on Delivery,1,8,0,1,None,187,1
+CUST1763,49,Male,India,Toronto,Tablet,Firefox,55.14,2,0,Electronics,457.85,PayPal,1,12,0,2,Platinum,3,1
+CUST1764,51,Other,India,London,Mobile,Safari,53.36,4,0,Clothing,179.25,Credit Card,1,14,1,3,Gold,742,1
+CUST1765,45,Male,Pakistan,London,Mobile,Firefox,37.9,12,0,Books,208.35,PayPal,0,10,0,4,Silver,644,1
+CUST1766,48,Other,Canada,Lahore,Mobile,Edge,48.69,7,1,Electronics,14.09,Credit Card,0,5,0,4,Platinum,906,1
+CUST1767,25,Male,Pakistan,Lahore,Tablet,Edge,5.07,15,1,Beauty,138.91,PayPal,0,8,1,2,None,124,1
+CUST1768,56,Female,USA,New York,Tablet,Edge,20.75,7,1,Beauty,403.34,PayPal,1,10,1,2,Platinum,14,0
+CUST1769,43,Other,Canada,New York,Tablet,Chrome,19.51,17,1,Books,309.67,Credit Card,1,10,1,4,None,959,1
+CUST1770,51,Other,USA,London,Desktop,Safari,38.5,16,0,Home,378.12,Credit Card,0,5,1,2,Platinum,993,1
+CUST1771,20,Other,Pakistan,London,Desktop,Firefox,22.0,19,0,Home,226.37,Credit Card,0,12,0,4,Gold,524,0
+CUST1772,29,Other,Canada,New York,Mobile,Chrome,9.76,9,1,Electronics,158.32,Credit Card,1,7,1,2,None,629,1
+CUST1773,18,Female,Pakistan,New York,Tablet,Firefox,36.19,14,1,Home,243.99,Debit Card,0,10,1,2,Platinum,239,0
+CUST1774,61,Other,Canada,Mumbai,Mobile,Chrome,49.05,17,1,Books,164.92,Credit Card,1,3,0,4,Gold,774,0
+CUST1775,22,Female,Pakistan,Mumbai,Tablet,Chrome,23.55,5,1,Electronics,420.29,PayPal,1,2,0,5,Gold,359,1
+CUST1776,47,Female,India,New York,Tablet,Edge,8.8,2,0,Clothing,152.35,PayPal,1,6,0,4,Silver,517,1
+CUST1777,47,Female,Pakistan,Mumbai,Tablet,Edge,12.6,16,1,Home,331.58,Debit Card,1,5,0,1,None,951,0
+CUST1778,34,Female,India,Toronto,Desktop,Chrome,15.01,14,0,Home,72.81,Credit Card,1,9,1,2,Silver,319,1
+CUST1779,64,Male,Pakistan,London,Desktop,Edge,18.69,14,0,Electronics,345.0,PayPal,1,10,1,3,Gold,230,0
+CUST1780,40,Male,Canada,London,Tablet,Chrome,38.92,1,0,Beauty,457.08,Debit Card,0,4,0,2,Silver,945,0
+CUST1781,32,Other,Canada,New York,Mobile,Safari,36.46,3,0,Home,306.25,PayPal,0,11,0,1,Silver,29,1
+CUST1782,54,Male,Canada,Lahore,Tablet,Edge,42.07,7,1,Books,282.13,Debit Card,0,3,0,3,Platinum,533,0
+CUST1783,38,Male,UK,New York,Tablet,Edge,22.39,15,1,Home,480.75,Debit Card,1,9,0,3,Silver,920,1
+CUST1784,31,Other,USA,Mumbai,Mobile,Edge,49.62,19,1,Clothing,315.56,Cash on Delivery,0,8,1,4,Gold,155,1
+CUST1785,19,Other,Canada,Lahore,Tablet,Safari,13.04,2,1,Home,133.48,Cash on Delivery,1,6,0,5,Silver,629,0
+CUST1786,28,Other,India,Mumbai,Mobile,Chrome,28.67,19,0,Beauty,149.73,Credit Card,1,1,1,4,None,851,0
+CUST1787,56,Male,Canada,Toronto,Desktop,Firefox,48.26,9,0,Home,354.13,Cash on Delivery,1,14,0,3,Platinum,934,1
+CUST1788,55,Male,UK,Mumbai,Desktop,Edge,11.63,19,0,Electronics,369.04,Debit Card,1,10,1,3,Gold,962,1
+CUST1789,51,Other,India,Toronto,Mobile,Chrome,7.48,5,1,Home,155.23,PayPal,0,13,1,5,Silver,900,1
+CUST1790,55,Female,UK,Toronto,Desktop,Safari,53.14,18,0,Beauty,175.95,PayPal,0,12,1,2,None,704,0
+CUST1791,51,Other,India,Mumbai,Desktop,Firefox,21.23,16,0,Electronics,495.57,Credit Card,0,11,1,5,Gold,398,1
+CUST1792,35,Female,Pakistan,Mumbai,Mobile,Edge,41.35,4,0,Books,55.47,Cash on Delivery,1,1,0,4,Silver,345,0
+CUST1793,47,Female,USA,Toronto,Desktop,Safari,2.5,12,0,Electronics,205.3,Credit Card,0,12,1,2,Platinum,194,0
+CUST1794,32,Other,USA,Lahore,Tablet,Safari,41.71,7,1,Clothing,35.91,Debit Card,0,6,0,4,Silver,167,0
+CUST1795,44,Other,UK,Toronto,Tablet,Firefox,19.65,14,0,Electronics,411.43,Cash on Delivery,0,13,1,5,Gold,376,1
+CUST1796,51,Other,USA,London,Mobile,Chrome,4.29,12,0,Books,50.71,Credit Card,1,3,1,2,Gold,488,0
+CUST1797,55,Male,UK,Toronto,Desktop,Edge,36.98,3,1,Home,338.63,PayPal,0,3,0,5,Gold,750,1
+CUST1798,50,Female,UK,Lahore,Tablet,Edge,15.21,5,1,Electronics,32.96,PayPal,1,6,0,1,None,361,0
+CUST1799,41,Male,UK,London,Tablet,Chrome,23.82,17,1,Electronics,338.06,Credit Card,0,13,1,3,Silver,481,1
+CUST1800,32,Male,USA,New York,Desktop,Chrome,5.75,10,0,Electronics,422.3,Credit Card,1,3,1,2,Silver,243,1
+CUST1801,47,Other,UK,New York,Desktop,Chrome,9.68,10,0,Electronics,202.42,Credit Card,0,13,0,3,Silver,580,0
+CUST1802,59,Male,USA,Lahore,Tablet,Firefox,18.58,11,0,Books,263.45,Debit Card,0,11,1,1,Platinum,606,1
+CUST1803,34,Other,UK,Toronto,Tablet,Firefox,6.3,17,0,Beauty,203.76,Debit Card,0,10,0,2,None,588,0
+CUST1804,22,Female,Canada,Mumbai,Mobile,Edge,54.74,5,1,Beauty,153.74,PayPal,1,6,0,3,None,170,0
+CUST1805,46,Other,UK,Lahore,Mobile,Firefox,1.36,13,0,Electronics,402.62,Debit Card,0,5,0,3,Platinum,512,0
+CUST1806,21,Male,India,London,Tablet,Safari,29.55,10,0,Books,139.64,Debit Card,0,4,1,2,None,405,0
+CUST1807,27,Male,UK,London,Mobile,Edge,8.27,9,1,Books,362.86,Cash on Delivery,1,8,1,3,Platinum,573,0
+CUST1808,34,Other,Pakistan,New York,Tablet,Firefox,19.15,17,1,Electronics,107.07,Debit Card,1,2,0,3,Gold,206,0
+CUST1809,27,Other,UK,London,Tablet,Chrome,55.64,1,1,Clothing,128.68,Cash on Delivery,1,12,0,2,Gold,153,0
+CUST1810,34,Male,India,Lahore,Mobile,Safari,10.54,4,0,Electronics,171.55,Debit Card,1,14,0,3,None,785,1
+CUST1811,37,Female,India,London,Mobile,Chrome,57.98,4,0,Clothing,296.63,PayPal,0,11,0,3,Gold,47,0
+CUST1812,41,Female,USA,Lahore,Desktop,Edge,13.14,18,0,Electronics,229.94,Credit Card,0,7,1,4,Gold,648,0
+CUST1813,22,Other,Canada,Mumbai,Desktop,Chrome,44.75,9,0,Clothing,373.85,PayPal,1,4,0,4,Gold,0,1
+CUST1814,51,Female,UK,New York,Desktop,Firefox,33.25,18,0,Clothing,110.72,Debit Card,0,2,1,1,Silver,746,1
+CUST1815,23,Male,USA,London,Tablet,Firefox,53.18,14,1,Electronics,10.28,Credit Card,1,7,0,4,Gold,904,0
+CUST1816,19,Other,Canada,Lahore,Mobile,Edge,33.69,15,1,Clothing,389.4,Credit Card,0,13,1,4,Silver,767,0
+CUST1817,30,Male,UK,Toronto,Tablet,Chrome,32.54,6,0,Home,411.72,Credit Card,1,1,1,1,Platinum,406,0
+CUST1818,60,Male,Pakistan,New York,Mobile,Edge,12.53,10,0,Beauty,34.44,Cash on Delivery,0,4,1,3,Platinum,106,1
+CUST1819,60,Female,UK,Mumbai,Tablet,Chrome,10.81,15,0,Books,307.4,PayPal,1,9,1,3,Platinum,172,0
+CUST1820,28,Other,India,Lahore,Desktop,Safari,55.07,4,0,Clothing,192.21,Cash on Delivery,1,14,1,4,Platinum,505,1
+CUST1821,64,Other,India,Mumbai,Desktop,Firefox,20.34,18,0,Clothing,397.98,Credit Card,0,4,0,1,Platinum,129,0
+CUST1822,40,Female,Pakistan,Mumbai,Desktop,Edge,22.95,18,1,Books,437.84,PayPal,0,12,0,3,Gold,397,0
+CUST1823,33,Male,USA,London,Tablet,Safari,45.83,17,1,Clothing,426.25,PayPal,0,13,1,5,Gold,293,1
+CUST1824,48,Male,Canada,London,Mobile,Safari,20.99,12,1,Books,389.72,Debit Card,1,3,0,2,Gold,551,0
+CUST1825,28,Male,UK,Lahore,Mobile,Edge,57.17,7,0,Electronics,138.18,Cash on Delivery,0,10,0,2,Platinum,446,0
+CUST1826,33,Male,India,Toronto,Desktop,Edge,44.54,16,0,Home,406.89,Cash on Delivery,1,10,0,2,Platinum,849,0
+CUST1827,25,Other,USA,Lahore,Desktop,Safari,36.25,11,1,Home,269.07,Debit Card,0,2,0,4,Silver,15,1
+CUST1828,21,Other,Pakistan,Toronto,Desktop,Chrome,52.97,14,1,Beauty,31.11,Cash on Delivery,0,14,0,2,None,638,0
+CUST1829,57,Female,India,Mumbai,Desktop,Safari,3.93,3,0,Clothing,231.18,Credit Card,1,3,0,2,Gold,884,0
+CUST1830,21,Female,Pakistan,New York,Mobile,Edge,16.17,19,1,Beauty,471.37,Credit Card,1,1,0,5,None,348,1
+CUST1831,42,Other,UK,Lahore,Tablet,Safari,28.44,18,1,Electronics,444.49,Cash on Delivery,0,10,1,3,Platinum,202,1
+CUST1832,20,Other,Canada,Lahore,Tablet,Chrome,14.39,10,0,Home,55.62,Debit Card,1,8,0,5,Platinum,133,0
+CUST1833,49,Male,India,Toronto,Tablet,Firefox,44.89,6,1,Electronics,373.34,PayPal,1,1,0,4,Platinum,770,0
+CUST1834,20,Male,India,Mumbai,Tablet,Firefox,55.23,13,1,Electronics,403.87,Cash on Delivery,0,3,0,2,None,525,1
+CUST1835,44,Female,UK,Mumbai,Desktop,Safari,26.0,10,1,Clothing,139.34,PayPal,1,14,1,3,Silver,507,0
+CUST1836,46,Other,USA,Toronto,Desktop,Chrome,21.19,18,0,Electronics,238.45,Debit Card,0,3,1,2,Platinum,65,0
+CUST1837,49,Female,Canada,Mumbai,Desktop,Firefox,57.73,16,1,Home,356.94,PayPal,0,13,0,2,Silver,479,1
+CUST1838,36,Other,India,London,Tablet,Safari,27.25,6,1,Beauty,222.33,Debit Card,1,2,1,4,Silver,862,0
+CUST1839,38,Male,Canada,New York,Desktop,Safari,29.85,13,1,Home,60.83,Debit Card,0,14,1,2,Gold,458,0
+CUST1840,22,Female,India,Lahore,Desktop,Chrome,21.75,4,0,Clothing,354.41,Credit Card,1,5,0,1,None,341,1
+CUST1841,35,Female,Canada,New York,Mobile,Edge,54.66,14,0,Home,456.26,Credit Card,0,10,1,3,Platinum,706,0
+CUST1842,45,Other,Pakistan,Lahore,Mobile,Safari,34.57,1,1,Books,327.98,Debit Card,1,3,0,3,Silver,625,0
+CUST1843,59,Male,India,London,Desktop,Edge,45.97,5,0,Beauty,388.03,Cash on Delivery,1,3,1,1,None,158,0
+CUST1844,39,Female,Canada,Mumbai,Mobile,Edge,48.9,8,1,Books,182.39,Credit Card,1,8,0,4,None,160,1
+CUST1845,38,Male,USA,Toronto,Mobile,Firefox,21.17,12,0,Books,95.68,Debit Card,1,4,1,2,Platinum,253,0
+CUST1846,23,Female,Pakistan,London,Desktop,Edge,26.59,2,0,Clothing,323.17,PayPal,1,4,0,2,Gold,983,1
+CUST1847,18,Male,Pakistan,New York,Desktop,Chrome,51.06,12,1,Electronics,167.25,PayPal,0,3,0,3,Gold,896,1
+CUST1848,22,Other,USA,Toronto,Desktop,Firefox,22.43,5,1,Books,430.74,Cash on Delivery,0,11,1,4,Silver,939,0
+CUST1849,58,Female,Canada,Mumbai,Desktop,Firefox,47.84,5,1,Home,65.7,PayPal,1,1,0,4,Gold,526,1
+CUST1850,29,Female,UK,London,Tablet,Firefox,56.52,13,0,Electronics,219.56,PayPal,0,8,0,4,Gold,548,0
+CUST1851,43,Male,USA,Toronto,Tablet,Safari,37.77,9,1,Home,201.38,Debit Card,1,1,1,2,Gold,154,0
+CUST1852,63,Male,Canada,London,Desktop,Safari,44.76,10,0,Home,469.34,PayPal,1,7,0,4,None,485,0
+CUST1853,51,Female,USA,London,Mobile,Edge,48.5,1,0,Electronics,80.8,PayPal,0,5,0,1,Platinum,431,1
+CUST1854,31,Other,USA,Mumbai,Desktop,Firefox,50.86,3,1,Electronics,9.87,PayPal,0,4,1,5,None,26,0
+CUST1855,43,Male,India,Lahore,Desktop,Firefox,24.31,18,0,Home,122.85,PayPal,1,4,0,4,None,11,0
+CUST1856,62,Male,Canada,Toronto,Mobile,Chrome,4.02,12,1,Clothing,411.04,Debit Card,1,8,1,5,Platinum,66,0
+CUST1857,44,Male,UK,Mumbai,Tablet,Edge,24.71,3,0,Beauty,108.61,PayPal,1,11,0,2,None,541,1
+CUST1858,26,Female,India,London,Desktop,Chrome,40.75,9,1,Beauty,124.23,Cash on Delivery,1,11,1,4,Silver,95,1
+CUST1859,43,Female,USA,Mumbai,Desktop,Edge,27.57,2,0,Clothing,69.3,Credit Card,1,13,1,3,Silver,214,0
+CUST1860,64,Female,USA,Lahore,Tablet,Edge,45.19,3,0,Electronics,359.14,Cash on Delivery,1,14,0,2,None,193,0
+CUST1861,39,Female,USA,Toronto,Tablet,Safari,22.06,14,1,Home,39.24,Credit Card,0,6,1,1,Gold,646,0
+CUST1862,64,Other,Canada,Lahore,Mobile,Safari,38.45,4,0,Beauty,168.95,Cash on Delivery,1,14,0,1,None,289,0
+CUST1863,47,Other,Canada,New York,Tablet,Chrome,12.0,19,1,Home,144.84,Credit Card,1,12,0,5,Gold,543,1
+CUST1864,60,Female,India,Toronto,Tablet,Edge,45.21,13,0,Clothing,279.8,Credit Card,0,1,1,5,None,884,1
+CUST1865,34,Other,UK,Lahore,Tablet,Firefox,33.2,7,0,Home,366.56,Credit Card,1,14,0,3,Silver,38,1
+CUST1866,43,Male,India,London,Mobile,Safari,13.04,12,0,Clothing,268.77,Credit Card,1,10,0,3,Gold,863,1
+CUST1867,53,Male,Pakistan,Toronto,Tablet,Firefox,18.22,3,1,Electronics,465.86,Debit Card,0,8,1,1,Silver,938,1
+CUST1868,18,Male,USA,Toronto,Tablet,Chrome,45.17,9,1,Clothing,475.96,Cash on Delivery,1,13,0,4,None,938,1
+CUST1869,25,Female,USA,Mumbai,Mobile,Safari,29.47,2,1,Clothing,183.93,Credit Card,0,14,0,1,Platinum,205,1
+CUST1870,52,Male,USA,London,Tablet,Safari,13.75,9,1,Beauty,389.95,Cash on Delivery,1,2,1,1,Gold,898,0
+CUST1871,32,Other,India,New York,Tablet,Edge,58.07,12,1,Home,370.71,PayPal,0,6,0,3,Gold,941,0
+CUST1872,64,Female,India,Lahore,Mobile,Chrome,43.19,12,0,Beauty,447.02,Credit Card,0,9,0,5,None,927,0
+CUST1873,39,Other,USA,Mumbai,Desktop,Edge,57.47,15,0,Books,226.73,Cash on Delivery,0,1,1,3,None,554,0
+CUST1874,31,Male,India,Lahore,Mobile,Safari,26.2,2,1,Clothing,267.58,Debit Card,1,6,0,3,Gold,483,0
+CUST1875,43,Male,Canada,New York,Tablet,Chrome,29.03,18,0,Books,210.81,Cash on Delivery,1,8,0,3,Platinum,336,0
+CUST1876,45,Male,Canada,New York,Tablet,Safari,53.98,13,0,Beauty,425.94,Credit Card,0,10,1,1,None,495,1
+CUST1877,40,Female,India,Toronto,Tablet,Chrome,31.98,14,0,Home,118.7,PayPal,0,13,0,4,None,770,0
+CUST1878,31,Other,USA,New York,Mobile,Safari,42.73,5,0,Beauty,123.66,Cash on Delivery,1,2,0,1,None,248,1
+CUST1879,41,Female,India,Lahore,Tablet,Firefox,15.88,10,1,Home,189.44,PayPal,1,5,1,2,Platinum,73,0
+CUST1880,19,Female,India,London,Tablet,Firefox,27.36,12,0,Home,119.02,Debit Card,1,6,1,3,Gold,372,1
+CUST1881,62,Male,India,London,Mobile,Edge,8.28,10,1,Electronics,282.7,Cash on Delivery,1,5,0,3,Silver,830,1
+CUST1882,43,Female,Pakistan,Toronto,Desktop,Firefox,13.15,11,1,Clothing,71.57,Cash on Delivery,1,3,0,2,None,878,0
+CUST1883,31,Female,Canada,Lahore,Desktop,Safari,1.06,2,0,Beauty,163.49,Debit Card,0,4,1,3,Platinum,807,0
+CUST1884,24,Male,UK,Lahore,Tablet,Safari,3.32,5,1,Home,457.16,Debit Card,1,7,0,3,Gold,785,0
+CUST1885,20,Female,UK,New York,Mobile,Firefox,58.66,7,0,Beauty,207.57,Debit Card,0,4,0,3,Gold,834,0
+CUST1886,64,Male,Pakistan,Lahore,Tablet,Edge,15.3,6,0,Beauty,375.38,Credit Card,1,9,0,2,Platinum,870,0
+CUST1887,40,Male,India,Mumbai,Mobile,Firefox,40.14,3,0,Home,61.16,Credit Card,0,11,1,1,None,701,1
+CUST1888,63,Male,Pakistan,New York,Mobile,Chrome,50.51,13,1,Books,127.54,Cash on Delivery,0,12,0,3,Silver,137,0
+CUST1889,60,Male,Pakistan,Mumbai,Desktop,Chrome,33.49,3,1,Clothing,404.64,Cash on Delivery,1,14,0,4,None,947,1
+CUST1890,64,Female,USA,Toronto,Desktop,Chrome,10.04,6,1,Clothing,382.68,Cash on Delivery,0,13,1,2,Gold,456,1
+CUST1891,62,Male,Canada,London,Mobile,Firefox,43.96,11,0,Electronics,196.15,PayPal,0,13,1,5,Silver,813,1
+CUST1892,35,Male,UK,Toronto,Tablet,Firefox,36.41,17,0,Electronics,477.43,Debit Card,0,10,1,2,None,822,0
+CUST1893,55,Female,India,London,Desktop,Firefox,44.14,10,0,Electronics,455.77,Cash on Delivery,0,2,0,1,Silver,941,0
+CUST1894,52,Female,UK,Toronto,Tablet,Chrome,46.42,12,1,Clothing,481.34,Debit Card,1,5,0,2,Platinum,842,0
+CUST1895,32,Other,UK,Lahore,Desktop,Edge,58.55,17,0,Books,216.82,Credit Card,0,8,1,5,None,443,0
+CUST1896,42,Female,Canada,Mumbai,Desktop,Safari,34.84,4,0,Clothing,102.75,Debit Card,1,14,0,4,Gold,352,0
+CUST1897,54,Female,UK,London,Tablet,Firefox,21.16,2,1,Clothing,315.2,PayPal,0,5,0,5,Gold,995,0
+CUST1898,45,Other,UK,New York,Desktop,Edge,39.26,11,1,Clothing,343.96,PayPal,1,10,0,2,Silver,793,1
+CUST1899,27,Female,Pakistan,Mumbai,Desktop,Safari,5.04,7,1,Clothing,67.09,Debit Card,1,12,0,5,Platinum,410,0
+CUST1900,56,Female,Canada,New York,Tablet,Safari,53.95,2,0,Books,394.31,PayPal,1,8,1,2,None,677,1
+CUST1901,34,Female,USA,Mumbai,Desktop,Safari,8.04,18,0,Electronics,13.94,PayPal,0,8,1,4,Platinum,789,1
+CUST1902,56,Female,India,Mumbai,Desktop,Edge,20.34,4,0,Beauty,243.95,Credit Card,1,9,0,4,Platinum,537,0
+CUST1903,39,Other,UK,Toronto,Desktop,Edge,49.13,8,1,Electronics,168.85,Cash on Delivery,1,10,1,1,Silver,981,0
+CUST1904,43,Female,India,London,Tablet,Chrome,36.24,14,1,Electronics,371.45,PayPal,0,6,0,4,Silver,452,0
+CUST1905,61,Female,USA,London,Mobile,Edge,24.22,12,1,Beauty,159.82,Cash on Delivery,1,12,0,3,None,418,0
+CUST1906,42,Other,India,Mumbai,Tablet,Edge,28.93,18,1,Clothing,414.27,Debit Card,0,4,1,5,Gold,449,0
+CUST1907,34,Male,USA,Lahore,Mobile,Edge,51.42,11,0,Books,299.5,Debit Card,0,12,1,5,None,994,0
+CUST1908,30,Other,Pakistan,Lahore,Desktop,Safari,21.06,8,0,Books,397.98,PayPal,1,11,0,2,Platinum,584,1
+CUST1909,37,Male,UK,New York,Mobile,Firefox,52.31,2,0,Electronics,494.72,Debit Card,0,3,0,4,Silver,114,1
+CUST1910,42,Other,USA,New York,Tablet,Chrome,6.2,15,0,Beauty,341.18,Credit Card,0,12,0,1,Platinum,50,1
+CUST1911,21,Other,India,Toronto,Tablet,Firefox,46.83,9,0,Home,492.55,PayPal,0,14,0,1,Silver,368,1
+CUST1912,27,Female,UK,Mumbai,Desktop,Firefox,51.01,19,0,Clothing,19.27,PayPal,1,5,1,1,Gold,913,1
+CUST1913,20,Male,Pakistan,New York,Mobile,Edge,11.73,8,0,Electronics,172.38,PayPal,0,6,1,3,Platinum,682,1
+CUST1914,58,Female,UK,New York,Desktop,Chrome,26.39,19,0,Books,58.39,Debit Card,0,3,0,4,Silver,779,0
+CUST1915,62,Male,USA,Mumbai,Desktop,Firefox,10.76,5,1,Beauty,134.84,Debit Card,0,2,0,1,None,514,0
+CUST1916,35,Other,Pakistan,Toronto,Tablet,Firefox,42.69,11,1,Beauty,420.25,PayPal,1,7,1,3,None,209,0
+CUST1917,64,Other,India,New York,Mobile,Chrome,32.59,15,0,Electronics,21.0,Cash on Delivery,0,11,0,5,None,887,1
+CUST1918,53,Male,Pakistan,Toronto,Mobile,Edge,38.48,8,1,Home,262.49,Debit Card,1,5,1,2,Platinum,997,1
+CUST1919,64,Female,Pakistan,London,Mobile,Firefox,12.59,19,0,Books,285.73,Debit Card,0,9,0,4,Silver,902,1
+CUST1920,39,Female,Canada,Toronto,Mobile,Safari,13.49,8,0,Electronics,282.77,PayPal,1,3,1,4,Silver,992,0
+CUST1921,51,Female,Pakistan,Lahore,Desktop,Firefox,3.45,19,1,Home,240.27,Cash on Delivery,1,14,0,5,Silver,901,0
+CUST1922,64,Female,Pakistan,Lahore,Desktop,Safari,20.0,18,0,Beauty,396.35,PayPal,1,8,0,4,Platinum,849,0
+CUST1923,25,Other,UK,Toronto,Tablet,Edge,34.02,10,0,Clothing,71.1,Debit Card,0,6,0,4,Silver,812,1
+CUST1924,57,Other,India,Lahore,Desktop,Firefox,51.62,7,0,Books,158.74,PayPal,0,4,1,4,Gold,894,1
+CUST1925,61,Other,UK,London,Desktop,Chrome,40.35,9,0,Books,309.78,PayPal,0,12,1,4,Platinum,853,1
+CUST1926,36,Other,UK,Mumbai,Tablet,Chrome,26.69,1,0,Home,347.02,PayPal,1,12,0,3,Gold,626,0
+CUST1927,59,Other,USA,Lahore,Tablet,Firefox,57.23,19,0,Electronics,205.05,Cash on Delivery,0,9,0,3,Gold,678,1
+CUST1928,58,Female,UK,Lahore,Tablet,Edge,43.44,5,0,Beauty,438.31,PayPal,0,5,0,2,None,434,0
+CUST1929,54,Female,Canada,Toronto,Desktop,Edge,55.88,19,1,Home,210.67,Debit Card,1,10,0,4,Platinum,776,0
+CUST1930,23,Female,Canada,London,Desktop,Chrome,32.13,1,1,Clothing,204.37,PayPal,0,6,1,5,Silver,226,0
+CUST1931,43,Female,USA,Mumbai,Tablet,Firefox,16.28,15,0,Clothing,22.92,Cash on Delivery,0,14,1,1,Gold,662,0
+CUST1932,51,Other,India,Toronto,Tablet,Edge,4.12,16,1,Clothing,277.81,Credit Card,1,13,1,2,Platinum,267,0
+CUST1933,62,Other,India,Toronto,Tablet,Chrome,43.84,7,0,Home,355.8,Cash on Delivery,1,9,0,1,Silver,115,0
+CUST1934,23,Other,UK,London,Desktop,Safari,8.16,12,0,Beauty,61.65,PayPal,0,7,0,1,None,599,0
+CUST1935,54,Male,UK,Mumbai,Desktop,Firefox,18.86,8,0,Books,156.19,Credit Card,1,12,1,4,Platinum,829,1
+CUST1936,50,Female,UK,London,Mobile,Safari,32.42,5,0,Electronics,391.72,PayPal,0,5,0,5,Platinum,753,0
+CUST1937,39,Female,India,Mumbai,Desktop,Safari,34.3,10,1,Books,186.13,Cash on Delivery,0,2,1,1,Platinum,359,1
+CUST1938,38,Other,Pakistan,London,Desktop,Edge,36.43,5,1,Beauty,124.59,Credit Card,0,4,1,1,Silver,328,0
+CUST1939,23,Female,Canada,Toronto,Desktop,Edge,10.81,17,1,Books,337.74,Credit Card,0,2,1,2,Gold,844,0
+CUST1940,23,Female,Pakistan,Toronto,Tablet,Edge,23.4,5,1,Home,102.4,PayPal,0,3,1,5,Gold,39,0
+CUST1941,21,Other,Pakistan,New York,Desktop,Firefox,37.41,15,0,Clothing,448.35,PayPal,1,10,0,5,Platinum,181,1
+CUST1942,47,Male,India,Lahore,Tablet,Safari,58.22,13,1,Beauty,57.27,Cash on Delivery,1,12,1,1,Platinum,489,0
+CUST1943,28,Male,Pakistan,London,Mobile,Firefox,43.93,1,0,Beauty,354.74,PayPal,0,3,0,5,Silver,208,0
+CUST1944,47,Male,USA,New York,Mobile,Edge,55.43,11,0,Books,252.28,Credit Card,1,4,1,2,None,902,1
+CUST1945,48,Other,UK,Lahore,Tablet,Safari,45.97,1,1,Home,435.62,Debit Card,1,6,1,2,Platinum,272,1
+CUST1946,41,Female,USA,London,Tablet,Firefox,35.91,11,0,Books,67.47,Debit Card,0,12,1,2,Platinum,118,1
+CUST1947,26,Other,Canada,Mumbai,Tablet,Firefox,12.33,18,1,Books,340.56,Cash on Delivery,1,3,1,4,None,381,1
+CUST1948,20,Other,UK,Lahore,Desktop,Chrome,40.33,18,1,Beauty,288.17,PayPal,1,10,0,1,Platinum,945,0
+CUST1949,48,Female,Pakistan,Toronto,Mobile,Firefox,37.78,16,1,Books,242.64,Cash on Delivery,0,14,0,5,Gold,535,0
+CUST1950,57,Male,Canada,New York,Tablet,Edge,36.55,13,1,Clothing,248.25,Debit Card,0,1,0,2,Platinum,257,1
+CUST1951,54,Male,UK,Lahore,Desktop,Firefox,29.9,7,1,Books,362.38,Debit Card,0,1,0,1,Gold,482,0
+CUST1952,53,Other,Pakistan,Lahore,Mobile,Safari,32.19,1,0,Clothing,469.18,PayPal,0,9,1,1,Silver,508,1
+CUST1953,41,Male,USA,Toronto,Desktop,Firefox,20.73,16,1,Beauty,50.17,Credit Card,0,9,0,4,Silver,91,1
+CUST1954,48,Other,UK,London,Mobile,Chrome,31.64,1,1,Home,14.65,PayPal,0,5,0,5,Gold,978,1
+CUST1955,23,Other,Pakistan,Mumbai,Desktop,Safari,12.66,17,0,Clothing,403.82,Debit Card,0,9,1,5,Gold,160,0
+CUST1956,19,Female,USA,Toronto,Mobile,Safari,48.51,6,1,Home,58.54,Credit Card,1,11,0,2,None,148,1
+CUST1957,37,Female,Canada,Mumbai,Mobile,Chrome,11.96,2,1,Home,493.41,Cash on Delivery,0,7,0,2,Gold,116,0
+CUST1958,45,Female,Canada,London,Desktop,Edge,6.01,17,0,Clothing,311.58,Debit Card,1,9,0,1,Gold,457,0
+CUST1959,28,Other,Canada,Lahore,Tablet,Safari,26.74,6,0,Beauty,327.18,Cash on Delivery,1,12,0,5,Platinum,564,0
+CUST1960,21,Female,Canada,Mumbai,Mobile,Edge,39.84,14,1,Electronics,103.45,Credit Card,0,7,1,5,None,813,1
+CUST1961,32,Male,India,New York,Tablet,Safari,26.83,18,0,Home,123.95,Cash on Delivery,1,9,1,2,Gold,44,0
+CUST1962,23,Male,UK,New York,Desktop,Safari,17.33,6,1,Home,331.38,Debit Card,1,2,0,3,Gold,776,1
+CUST1963,47,Other,UK,Toronto,Tablet,Edge,33.93,10,0,Beauty,455.31,PayPal,1,11,1,1,Gold,997,0
+CUST1964,55,Other,India,London,Tablet,Safari,21.47,18,1,Beauty,491.28,Cash on Delivery,0,11,0,5,Platinum,773,0
+CUST1965,19,Female,Pakistan,Toronto,Tablet,Edge,56.04,9,1,Books,103.03,Debit Card,1,8,0,4,Platinum,818,0
+CUST1966,32,Other,Pakistan,Toronto,Tablet,Chrome,55.44,8,1,Beauty,71.39,Debit Card,1,7,0,4,Platinum,233,1
+CUST1967,28,Other,Canada,Toronto,Tablet,Edge,30.64,10,0,Home,32.92,Credit Card,0,6,1,3,Silver,374,1
+CUST1968,25,Male,USA,New York,Mobile,Chrome,20.35,17,1,Clothing,434.81,Debit Card,1,5,1,2,Platinum,546,1
+CUST1969,43,Male,Pakistan,New York,Mobile,Safari,44.49,6,0,Electronics,150.88,PayPal,1,4,1,2,Gold,849,1
+CUST1970,62,Female,USA,Toronto,Mobile,Edge,3.17,14,1,Books,5.9,PayPal,1,7,1,2,Platinum,948,0
+CUST1971,61,Other,UK,New York,Desktop,Safari,29.01,6,1,Clothing,115.79,Cash on Delivery,1,3,1,4,Platinum,914,0
+CUST1972,22,Other,USA,London,Tablet,Edge,20.84,7,1,Electronics,173.52,Cash on Delivery,1,8,1,2,None,196,1
+CUST1973,23,Male,UK,Toronto,Mobile,Chrome,55.31,12,1,Electronics,495.54,Cash on Delivery,0,2,0,4,Gold,24,1
+CUST1974,43,Other,India,New York,Desktop,Chrome,1.71,3,1,Electronics,264.15,Cash on Delivery,1,1,1,3,Platinum,394,1
+CUST1975,21,Male,India,Mumbai,Mobile,Edge,33.62,14,0,Clothing,106.33,PayPal,0,11,0,1,Silver,713,1
+CUST1976,36,Female,Canada,Toronto,Mobile,Chrome,44.7,19,0,Books,170.74,Credit Card,1,2,0,5,None,784,0
+CUST1977,37,Male,Pakistan,Toronto,Tablet,Safari,29.62,16,0,Books,168.5,Cash on Delivery,0,9,1,3,Platinum,35,1
+CUST1978,50,Other,Canada,London,Desktop,Safari,6.04,7,1,Electronics,14.76,Credit Card,0,5,0,4,None,473,1
+CUST1979,37,Female,UK,Lahore,Tablet,Firefox,58.38,8,1,Clothing,71.92,Debit Card,0,11,0,3,None,222,0
+CUST1980,29,Male,Canada,Lahore,Tablet,Chrome,31.56,18,0,Electronics,349.12,Debit Card,1,8,0,5,Silver,863,1
+CUST1981,64,Male,USA,London,Mobile,Safari,37.24,13,1,Beauty,64.52,Cash on Delivery,1,3,1,1,Silver,788,0
+CUST1982,18,Female,UK,London,Tablet,Edge,14.96,9,1,Books,119.21,Debit Card,1,7,1,5,Silver,529,1
+CUST1983,43,Female,India,London,Desktop,Chrome,29.53,10,1,Home,178.61,Credit Card,1,2,0,4,Gold,187,0
+CUST1984,31,Male,Pakistan,Lahore,Tablet,Safari,26.32,9,0,Electronics,380.08,Credit Card,1,8,1,5,None,401,1
+CUST1985,55,Other,UK,London,Tablet,Chrome,5.42,15,0,Beauty,293.29,Debit Card,0,14,0,3,Platinum,256,1
+CUST1986,54,Male,UK,New York,Tablet,Edge,7.26,2,0,Books,346.05,Cash on Delivery,0,7,1,2,Silver,653,1
+CUST1987,28,Female,USA,Toronto,Mobile,Safari,50.41,13,0,Clothing,285.67,Credit Card,0,12,0,3,Silver,135,1
+CUST1988,53,Male,Pakistan,Toronto,Desktop,Firefox,15.15,2,0,Books,343.38,Credit Card,1,5,0,4,None,961,1
+CUST1989,30,Female,India,Mumbai,Mobile,Firefox,12.5,19,1,Clothing,6.41,PayPal,1,12,1,1,None,818,0
+CUST1990,60,Female,UK,Mumbai,Mobile,Chrome,30.79,2,1,Clothing,465.79,Cash on Delivery,0,11,1,5,None,590,1
+CUST1991,20,Other,UK,Toronto,Mobile,Edge,46.36,3,1,Electronics,59.91,PayPal,1,4,1,1,Platinum,443,0
+CUST1992,50,Female,USA,New York,Mobile,Safari,4.65,6,1,Electronics,206.09,Debit Card,1,1,1,4,Gold,417,0
+CUST1993,23,Female,Canada,Lahore,Mobile,Edge,35.03,3,0,Books,386.66,Debit Card,0,5,1,5,Gold,291,0
+CUST1994,27,Other,India,Lahore,Desktop,Safari,8.03,10,0,Beauty,220.44,PayPal,0,12,0,3,Silver,573,0
+CUST1995,22,Female,Pakistan,New York,Tablet,Chrome,3.15,6,1,Books,473.69,Cash on Delivery,1,9,0,3,Gold,128,1
+CUST1996,40,Other,UK,Lahore,Mobile,Safari,4.11,16,0,Home,236.46,Credit Card,1,10,0,4,Platinum,340,1
+CUST1997,27,Other,UK,London,Mobile,Edge,50.22,17,1,Clothing,438.1,Debit Card,0,4,1,5,Gold,809,1
+CUST1998,61,Female,India,Toronto,Desktop,Edge,7.96,19,1,Clothing,406.36,Cash on Delivery,1,13,1,3,Platinum,256,1
+CUST1999,19,Female,Canada,Toronto,Desktop,Chrome,3.66,3,1,Electronics,490.59,Cash on Delivery,0,9,0,4,Silver,991,0
