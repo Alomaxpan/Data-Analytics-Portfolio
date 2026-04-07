@@ -45,9 +45,42 @@ Marketing campaign dataset containing:
 
 ---
 
-## 📊 Sample Visualizations
+## 📊 Key Visual Insights
 
-(Add screenshots in /images folder)
+### 1. ROI by Channel
+![ROI](images/roi_by_channel.png)
+
+This chart shows which marketing channel delivers the highest return.
+
+---
+
+### 2. CTR Distribution
+![CTR](images/ctr_distribution.png)
+
+This helps understand engagement spread across campaigns.
+
+---
+
+### 3. Conversion Rate by Segment
+![Conversion](images/conversion_rate_segment.png)
+
+Different customer segments behave differently.
+
+---
+
+### 4. ROI vs Acquisition Cost
+![ROI vs Cost](images/roi_vs_cost.png)
+
+This shows whether higher spending leads to better returns.
+
+---
+
+### 5. Monthly ROI Trend
+![Trend](images/monthly_trend.png)
+
+This helps identify performance trends over time.
+
+---
 
 ---
 
