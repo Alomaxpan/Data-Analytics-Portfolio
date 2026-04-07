@@ -55,7 +55,7 @@ This chart shows which marketing channel delivers the highest return.
 ---
 
 ### 2. CTR Distribution
-![CTR](images/ctr_distribution.png)
+![CTR](images/CTR_Distribution.png)
 
 This helps understand engagement spread across campaigns.
 
@@ -79,8 +79,6 @@ This shows whether higher spending leads to better returns.
 ![Trend](images/monthly_trend.png)
 
 This helps identify performance trends over time.
-
----
 
 ---
 
