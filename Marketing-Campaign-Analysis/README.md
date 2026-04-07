@@ -23,6 +23,7 @@ Marketing campaign dataset containing:
 * ROI
 * Acquisition Cost
 * Channel, Campaign Type, Customer Segment
+* Note: Original dataset was large, so a sample dataset is used here.
 
 ---
 
